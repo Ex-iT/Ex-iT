@@ -19,6 +19,4 @@
     └───■ <a href="https://github.com/Ex-iT/juke-playlist-api/commit/9f4dcb7014aa9ea1fba404abc70db0134669e6d4">Relative paths without env vars</a><br />
     ┌──[22:32 24-07-2020]─[<a href="https://github.com/Ex-iT/juke-playlist-api">juke-playlist-api</a>]
     └───■ <a href="https://github.com/Ex-iT/juke-playlist-api/commit/062716e083ef452ed04f29077af6ebc64a7495cb">Relative paths</a><br />
-    ┌──[21:59 24-07-2020]─[<a href="https://github.com/Ex-iT/juke-playlist-api">juke-playlist-api</a>]
-    └───■ <a href="https://github.com/Ex-iT/juke-playlist-api/commit/33027a3a0718dd1be8eb6c550a36676b0e5756c8">Added static files</a><br />
 </pre>
