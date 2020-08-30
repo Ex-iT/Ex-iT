@@ -7,16 +7,28 @@
 
 ### Recent activity
 <pre>
-    ┌──[14:35 25-08-2020]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/1df7ee721210912a6c8fff63d0e484303b25f59c">added requirements (requests)</a><br />
-    ┌──[14:30 25-08-2020]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/b553f9d9e8064fe332ddeec2046e00c208d3a5a8">Fixes yaml syntax</a><br />
-    ┌──[12:23 25-08-2020]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/f40c9cc68d13fea3b58ac23c0281ef58dd8fb9dd">Aligned badges</a><br />
-    ┌──[12:20 25-08-2020]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/61f7efecda06ea5679479055a420d42ea4374081">Small update + test</a><br />
-    ┌──[22:34 24-07-2020]─[<a href="https://github.com/Ex-iT/juke-playlist-api">juke-playlist-api</a>]
-    └───■ <a href="https://github.com/Ex-iT/juke-playlist-api/commit/9f4dcb7014aa9ea1fba404abc70db0134669e6d4">Relative paths without env vars</a><br />
-    ┌──[22:32 24-07-2020]─[<a href="https://github.com/Ex-iT/juke-playlist-api">juke-playlist-api</a>]
-    └───■ <a href="https://github.com/Ex-iT/juke-playlist-api/commit/062716e083ef452ed04f29077af6ebc64a7495cb">Relative paths</a><br />
+    ┌──[14:50 25-08-2020]─[<a href="https://github.com/Ex-iT/comics">comics</a>]
+    └───■ <a href="https://github.com/Ex-iT/comics/commit/db4c6ba380074dd87c46a9f3446c4c2b2b59a7d5">Bump elliptic from 6.5.0 to 6.5.3
+
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.0 to 6.5.3.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.0...v6.5.3)
+
+Signed-off-by: dependabot[bot] <support@github.com></a><br />
+    ┌──[14:49 25-08-2020]─[<a href="https://github.com/Ex-iT/comics">comics</a>]
+    └───■ <a href="https://github.com/Ex-iT/comics/commit/97d408e1941d48eebb89a14f6ccbf51d0d3163f0">Bump lodash from 4.17.14 to 4.17.19
+
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.14 to 4.17.19.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.14...4.17.19)
+
+Signed-off-by: dependabot[bot] <support@github.com></a><br />
+    ┌──[14:49 25-08-2020]─[<a href="https://github.com/Ex-iT/comics">comics</a>]
+    └───■ <a href="https://github.com/Ex-iT/comics/commit/939f13aca6d3cb1218d567335e8eddb97c5163a3">Bump https-proxy-agent from 2.2.2 to 2.2.4
+
+Bumps [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent) from 2.2.2 to 2.2.4.
+- [Release notes](https://github.com/TooTallNate/node-https-proxy-agent/releases)
+- [Commits](https://github.com/TooTallNate/node-https-proxy-agent/compare/2.2.2...2.2.4)
+
+Signed-off-by: dependabot[bot] <support@github.com></a><br />
 </pre>
