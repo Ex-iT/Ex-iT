@@ -7,6 +7,8 @@
 
 ### Recent activity
 <pre>
+    ┌──[22:02 05-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
+    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/9ec80d3acc53cc1342f1f80ac04a93db9186beec">Added aditional login and updated manifest etc.</a><br />
     ┌──[14:50 25-08-2020]─[<a href="https://github.com/Ex-iT/comics">comics</a>]
     └───■ <a href="https://github.com/Ex-iT/comics/commit/db4c6ba380074dd87c46a9f3446c4c2b2b59a7d5">Bump elliptic from 6.5.0 to 6.5.3
 
@@ -21,14 +23,6 @@ Signed-off-by: dependabot[bot] <support@github.com></a><br />
 Bumps [lodash](https://github.com/lodash/lodash) from 4.17.14 to 4.17.19.
 - [Release notes](https://github.com/lodash/lodash/releases)
 - [Commits](https://github.com/lodash/lodash/compare/4.17.14...4.17.19)
-
-Signed-off-by: dependabot[bot] <support@github.com></a><br />
-    ┌──[14:49 25-08-2020]─[<a href="https://github.com/Ex-iT/comics">comics</a>]
-    └───■ <a href="https://github.com/Ex-iT/comics/commit/939f13aca6d3cb1218d567335e8eddb97c5163a3">Bump https-proxy-agent from 2.2.2 to 2.2.4
-
-Bumps [https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent) from 2.2.2 to 2.2.4.
-- [Release notes](https://github.com/TooTallNate/node-https-proxy-agent/releases)
-- [Commits](https://github.com/TooTallNate/node-https-proxy-agent/compare/2.2.2...2.2.4)
 
 Signed-off-by: dependabot[bot] <support@github.com></a><br />
 </pre>
