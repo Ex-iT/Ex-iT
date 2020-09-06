@@ -7,6 +7,8 @@
 
 ### Recent activity
 <pre>
+    ┌──[12:35 06-09-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/5ed1883c24d211ec65d0c89b0eb8b639401b7c7c">Remove `editor.formatOnPaste`</a><br />
     ┌──[22:02 05-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
     └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/9ec80d3acc53cc1342f1f80ac04a93db9186beec">Added aditional login and updated manifest etc.</a><br />
     ┌──[14:50 25-08-2020]─[<a href="https://github.com/Ex-iT/comics">comics</a>]
