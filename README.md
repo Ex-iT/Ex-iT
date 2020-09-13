@@ -7,6 +7,10 @@
 
 ### Recent activity
 <pre>
+    ┌──[08:23 07-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
+    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/404bab981fbd05bbe2fb81d7a6dc0b44ba74ae8b">Added homepage url to manifest</a><br />
+    ┌──[07:59 07-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
+    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/0f64fef9b991dcf79693c804c9a2b78183799d61">Added installation steps to the README</a><br />
     ┌──[21:01 06-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
     └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/af8576af29c9fdf8f13f9133528ae2fabe37853f">Updated settings viewing logic and added error handling</a><br />
     ┌──[13:19 06-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
