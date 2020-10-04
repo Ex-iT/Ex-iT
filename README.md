@@ -36,6 +36,14 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[20:55 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/327f904080c93112fdf09d98fc09aec487cdbe8e">Added setting for new windows/panes to open in the current dir</a><br />
+    ┌──[20:10 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/582da57d158e1103bcabb7039db4ccc91482428c">Added commitSigning</a><br />
+    ┌──[20:02 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/7b32cc652fc87c05742fba6c3ad638b00514cd49">Added Tmux config</a><br />
+    ┌──[09:44 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/205a47f35ef28fecfe1c8bcf0467f7626ffbb47e">Update Pro clone</a><br />
     ┌──[19:41 26-09-2020]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
     └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/8c915eacaa76a4912cf23c21aaccc7e666a92942">Added online presence / 'socials'</a><br />
     ┌──[14:24 26-09-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
@@ -44,12 +52,4 @@
     └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/404bab981fbd05bbe2fb81d7a6dc0b44ba74ae8b">Added homepage url to manifest</a><br />
     ┌──[07:59 07-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
     └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/0f64fef9b991dcf79693c804c9a2b78183799d61">Added installation steps to the README</a><br />
-    ┌──[21:01 06-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
-    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/af8576af29c9fdf8f13f9133528ae2fabe37853f">Updated settings viewing logic and added error handling</a><br />
-    ┌──[13:19 06-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
-    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/0d5d0c6fe72b55eb73d26633c18715ab819ea421">Small refactor</a><br />
-    ┌──[12:35 06-09-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/5ed1883c24d211ec65d0c89b0eb8b639401b7c7c">Remove `editor.formatOnPaste`</a><br />
-    ┌──[22:02 05-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
-    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/9ec80d3acc53cc1342f1f80ac04a93db9186beec">Added aditional login and updated manifest etc.</a><br />
 </pre>
