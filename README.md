@@ -36,20 +36,29 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[12:26 09-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/166f52a3dc9aafb7518e397387f4864d07539d1d">Added Linux only config for copy/pasting</a><br />
+    ┌──[12:21 09-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0fb6b14569099d6584b02d34eddacbfee4fdbae5">Removed obsolete node task</a><br />
+    ┌──[12:19 09-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/300d8013933c8afe54ae66749fc74bea8de22ec3">Added htaccess to serve brotli files</a><br />
+    ┌──[15:45 08-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/51a097b36149f92487189480ca0e544df7c17386">Major refactor</a><br />
+    ┌──[11:39 08-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/f0fc4e03b8bc12ddac8a5691b18d6c2011d7e3c6">Bump http-proxy from 1.18.0 to 1.18.1
+
+Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to 1.18.1.
+- [Release notes](https://github.com/http-party/node-http-proxy/releases)
+- [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/http-party/node-http-proxy/compare/1.18.0...1.18.1)
+
+Signed-off-by: dependabot[bot] <support@github.com></a><br />
+    ┌──[13:09 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/8f239debebb5fd944c81198da0afc27c0bf989b7">Set the foreground color of the status bar to white</a><br />
+    ┌──[11:08 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/b8a5d53503fd5bccf3f28482af954a427439b8e8">Added default .gitconfig</a><br />
+    ┌──[11:07 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/d82d7fe373038c22b4932f749d8fcffbf84e2893">Added resize pane shortcuts for Tmux</a><br />
     ┌──[20:55 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/327f904080c93112fdf09d98fc09aec487cdbe8e">Added setting for new windows/panes to open in the current dir</a><br />
-    ┌──[20:10 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/582da57d158e1103bcabb7039db4ccc91482428c">Added commitSigning</a><br />
-    ┌──[20:02 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/7b32cc652fc87c05742fba6c3ad638b00514cd49">Added Tmux config</a><br />
-    ┌──[09:44 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/205a47f35ef28fecfe1c8bcf0467f7626ffbb47e">Update Pro clone</a><br />
-    ┌──[19:41 26-09-2020]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/8c915eacaa76a4912cf23c21aaccc7e666a92942">Added online presence / 'socials'</a><br />
-    ┌──[14:24 26-09-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/9e5712d8d69ca3982a00f96f3847782f9ada10b2">Updated config to fix top mem command by adding a mem</a><br />
-    ┌──[08:23 07-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
-    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/404bab981fbd05bbe2fb81d7a6dc0b44ba74ae8b">Added homepage url to manifest</a><br />
-    ┌──[07:59 07-09-2020]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
-    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/0f64fef9b991dcf79693c804c9a2b78183799d61">Added installation steps to the README</a><br />
 </pre>
