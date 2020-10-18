@@ -36,6 +36,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[12:49 12-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/fab2c918e75eaf883b2ee40c6e3b8edf70efeb01">Add n-flag to open a new window</a><br />
     ┌──[12:26 09-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/166f52a3dc9aafb7518e397387f4864d07539d1d">Added Linux only config for copy/pasting</a><br />
     ┌──[12:21 09-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -59,6 +61,4 @@ Signed-off-by: dependabot[bot] <support@github.com></a><br />
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/b8a5d53503fd5bccf3f28482af954a427439b8e8">Added default .gitconfig</a><br />
     ┌──[11:07 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/d82d7fe373038c22b4932f749d8fcffbf84e2893">Added resize pane shortcuts for Tmux</a><br />
-    ┌──[20:55 01-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/327f904080c93112fdf09d98fc09aec487cdbe8e">Added setting for new windows/panes to open in the current dir</a><br />
 </pre>
