@@ -36,6 +36,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[13:53 07-11-2020]─[<a href="https://github.com/Ex-iT/juke-playlist">juke-playlist</a>]
+    └───■ <a href="https://github.com/Ex-iT/juke-playlist/commit/30cac90c069c879922282053cd08ae48122fa327">Updated node-fetch</a><br />
     ┌──[12:49 12-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/fab2c918e75eaf883b2ee40c6e3b8edf70efeb01">Add n-flag to open a new window</a><br />
     ┌──[12:26 09-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
@@ -57,8 +59,4 @@ Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to
 Signed-off-by: dependabot[bot] <support@github.com></a><br />
     ┌──[13:09 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/8f239debebb5fd944c81198da0afc27c0bf989b7">Set the foreground color of the status bar to white</a><br />
-    ┌──[11:08 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/b8a5d53503fd5bccf3f28482af954a427439b8e8">Added default .gitconfig</a><br />
-    ┌──[11:07 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/d82d7fe373038c22b4932f749d8fcffbf84e2893">Added resize pane shortcuts for Tmux</a><br />
 </pre>
