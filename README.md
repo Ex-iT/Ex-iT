@@ -46,17 +46,4 @@
     └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0fb6b14569099d6584b02d34eddacbfee4fdbae5">Removed obsolete node task</a><br />
     ┌──[12:19 09-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
     └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/300d8013933c8afe54ae66749fc74bea8de22ec3">Added htaccess to serve brotli files</a><br />
-    ┌──[15:45 08-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/51a097b36149f92487189480ca0e544df7c17386">Major refactor</a><br />
-    ┌──[11:39 08-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/f0fc4e03b8bc12ddac8a5691b18d6c2011d7e3c6">Bump http-proxy from 1.18.0 to 1.18.1
-
-Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to 1.18.1.
-- [Release notes](https://github.com/http-party/node-http-proxy/releases)
-- [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/http-party/node-http-proxy/compare/1.18.0...1.18.1)
-
-Signed-off-by: dependabot[bot] <support@github.com></a><br />
-    ┌──[13:09 05-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/8f239debebb5fd944c81198da0afc27c0bf989b7">Set the foreground color of the status bar to white</a><br />
 </pre>
