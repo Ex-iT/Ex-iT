@@ -36,14 +36,10 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[13:53 07-11-2020]─[<a href="https://github.com/Ex-iT/juke-playlist">juke-playlist</a>]
-    └───■ <a href="https://github.com/Ex-iT/juke-playlist/commit/30cac90c069c879922282053cd08ae48122fa327">Updated node-fetch</a><br />
-    ┌──[12:49 12-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/fab2c918e75eaf883b2ee40c6e3b8edf70efeb01">Add n-flag to open a new window</a><br />
-    ┌──[12:26 09-10-2020]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/166f52a3dc9aafb7518e397387f4864d07539d1d">Added Linux only config for copy/pasting</a><br />
-    ┌──[12:21 09-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0fb6b14569099d6584b02d34eddacbfee4fdbae5">Removed obsolete node task</a><br />
-    ┌──[12:19 09-10-2020]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/300d8013933c8afe54ae66749fc74bea8de22ec3">Added htaccess to serve brotli files</a><br />
+    ┌──[13:04 31-01-2021]─[<a href="https://github.com/Ex-iT/juke-player">juke-player</a>]
+    └───■ <a href="https://github.com/Ex-iT/juke-player/commit/53d83067bc8c0b0c29ea2c20277690365dcc9ab0">Updated stylelint config</a><br />
+    ┌──[13:46 23-01-2021]─[<a href="https://github.com/Ex-iT/juke-player">juke-player</a>]
+    └───■ <a href="https://github.com/Ex-iT/juke-player/commit/1fecd0f9dc6cdac978f6e626e075ba0c0fb6407c">Added base url</a><br />
+    ┌──[09:33 19-01-2021]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/ad4ed43ec4e6498c8ae8e5bd1e4ce7066dfcebd6">Added tabnine and modified theme colors</a><br />
 </pre>
