@@ -36,6 +36,12 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[16:43 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/6e938a60743930e9acc9a973f5149d5b057469fa">Moved consts to top of file</a><br />
+    ┌──[16:35 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/b5ad9750ddc94f65ef44a99cc977f0a5f2e40dd3">Updated README and added PyInstaller</a><br />
+    ┌──[16:14 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/7029a840645fe878dde25ac38583e9adbdd8274c">Added multi monitor support</a><br />
     ┌──[00:13 08-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/d832f6de870c930244faa753ef02d9e56c619ec5">Preparing for multi-monitor support</a><br />
     ┌──[21:02 07-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
@@ -44,6 +50,4 @@
     └───■ <a href="https://github.com/Ex-iT/juke-player/commit/53d83067bc8c0b0c29ea2c20277690365dcc9ab0">Updated stylelint config</a><br />
     ┌──[13:46 23-01-2021]─[<a href="https://github.com/Ex-iT/juke-player">juke-player</a>]
     └───■ <a href="https://github.com/Ex-iT/juke-player/commit/1fecd0f9dc6cdac978f6e626e075ba0c0fb6407c">Added base url</a><br />
-    ┌──[09:33 19-01-2021]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
-    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/ad4ed43ec4e6498c8ae8e5bd1e4ce7066dfcebd6">Added tabnine and modified theme colors</a><br />
 </pre>
