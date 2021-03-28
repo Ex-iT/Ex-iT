@@ -36,6 +36,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[11:59 22-03-2021]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
+    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/16b98828d227bd9a22d7007fa119eee32fd78089">Added logo to README</a><br />
     ┌──[16:43 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/6e938a60743930e9acc9a973f5149d5b057469fa">Moved consts to top of file</a><br />
     ┌──[16:35 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
