@@ -36,6 +36,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[22:38 02-04-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/83069583e78e584321bf7c1729be441dc98bfcb9">Update for more cross-platform compatibility</a><br />
     ┌──[11:59 22-03-2021]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
     └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/16b98828d227bd9a22d7007fa119eee32fd78089">Added logo to README</a><br />
     ┌──[16:43 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
@@ -50,6 +52,4 @@
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/dfa2a905774797a57f85cf16f493e4f6030e7c41">Updated README</a><br />
     ┌──[13:04 31-01-2021]─[<a href="https://github.com/Ex-iT/juke-player">juke-player</a>]
     └───■ <a href="https://github.com/Ex-iT/juke-player/commit/53d83067bc8c0b0c29ea2c20277690365dcc9ab0">Updated stylelint config</a><br />
-    ┌──[13:46 23-01-2021]─[<a href="https://github.com/Ex-iT/juke-player">juke-player</a>]
-    └───■ <a href="https://github.com/Ex-iT/juke-player/commit/1fecd0f9dc6cdac978f6e626e075ba0c0fb6407c">Added base url</a><br />
 </pre>
