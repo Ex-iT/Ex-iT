@@ -36,6 +36,10 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[11:13 20-04-2021]─[<a href="https://github.com/Ex-iT/md-toc-gen">md-toc-gen</a>]
+    └───■ <a href="https://github.com/Ex-iT/md-toc-gen/commit/a86d356b77079d164c39253b057c18af9fa36426">Updated marked and slugify deps</a><br />
+    ┌──[13:20 19-04-2021]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
+    └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/e67945f900b646a2e5f2124da8088e5832f9cb45">Added Generic Monitor script to easily copy the ip</a><br />
     ┌──[22:38 02-04-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/83069583e78e584321bf7c1729be441dc98bfcb9">Update for more cross-platform compatibility</a><br />
     ┌──[11:59 22-03-2021]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
@@ -50,6 +54,4 @@
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/d832f6de870c930244faa753ef02d9e56c619ec5">Preparing for multi-monitor support</a><br />
     ┌──[21:02 07-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/dfa2a905774797a57f85cf16f493e4f6030e7c41">Updated README</a><br />
-    ┌──[13:04 31-01-2021]─[<a href="https://github.com/Ex-iT/juke-player">juke-player</a>]
-    └───■ <a href="https://github.com/Ex-iT/juke-player/commit/53d83067bc8c0b0c29ea2c20277690365dcc9ab0">Updated stylelint config</a><br />
 </pre>
