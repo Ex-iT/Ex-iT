@@ -26,7 +26,7 @@
             </a>
         </td>
         <td>
-            <a href="https://www.hackthebox.eu/home/users/profile/169430">
+            <a href="https://app.hackthebox.eu/profile/169430">
                 <img alt="Hack The Box :: MrBlonde" src="https://www.hackthebox.eu/badge/image/169430" />
             </a>
         </td>
@@ -36,6 +36,12 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[20:26 13-05-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/835890329c05bb30d701ada3ac1e83ee15fa57c2">Update HTB profile URL</a><br />
+    ┌──[15:46 11-05-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/8bb6a2ac957a41f8e8802f8e8964b24cd25662e8">WIP: todo handling preview window</a><br />
+    ┌──[08:59 11-05-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/8e655c679a20727c3f26b0849e54c00e689eb562">Only Win support, added cli args and added logging</a><br />
     ┌──[11:13 20-04-2021]─[<a href="https://github.com/Ex-iT/md-toc-gen">md-toc-gen</a>]
     └───■ <a href="https://github.com/Ex-iT/md-toc-gen/commit/a86d356b77079d164c39253b057c18af9fa36426">Updated marked and slugify deps</a><br />
     ┌──[13:20 19-04-2021]─[<a href="https://github.com/Ex-iT/dotfiles">dotfiles</a>]
@@ -50,8 +56,4 @@
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/b5ad9750ddc94f65ef44a99cc977f0a5f2e40dd3">Updated README and added PyInstaller</a><br />
     ┌──[16:14 10-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/7029a840645fe878dde25ac38583e9adbdd8274c">Added multi monitor support</a><br />
-    ┌──[00:13 08-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
-    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/d832f6de870c930244faa753ef02d9e56c619ec5">Preparing for multi-monitor support</a><br />
-    ┌──[21:02 07-03-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
-    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/dfa2a905774797a57f85cf16f493e4f6030e7c41">Updated README</a><br />
 </pre>
