@@ -39,7 +39,7 @@ content = '''<table>
             </a>
         </td>
         <td>
-            <a href="https://www.hackthebox.eu/home/users/profile/169430">
+            <a href="https://app.hackthebox.eu/profile/169430">
                 <img alt="Hack The Box :: MrBlonde" src="https://www.hackthebox.eu/badge/image/169430" />
             </a>
         </td>
