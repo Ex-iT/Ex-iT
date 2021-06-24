@@ -36,6 +36,10 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[18:56 24-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/f3b25686799366817ce8b51633703fcf0916e1d7">Removed obsolete getChildWindow</a><br />
+    ┌──[14:17 24-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/0c51bd86a052bbf99cbebc8ba6f53866357f7490">Fixes for windows handle preview</a><br />
     ┌──[20:26 13-05-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
     └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/835890329c05bb30d701ada3ac1e83ee15fa57c2">Update HTB profile URL</a><br />
     ┌──[15:46 11-05-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
@@ -48,6 +52,4 @@
     └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/e67945f900b646a2e5f2124da8088e5832f9cb45">Added Generic Monitor script to easily copy the ip</a><br />
     ┌──[22:38 02-04-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/83069583e78e584321bf7c1729be441dc98bfcb9">Update for more cross-platform compatibility</a><br />
-    ┌──[11:59 22-03-2021]─[<a href="https://github.com/Ex-iT/dfp-spy">dfp-spy</a>]
-    └───■ <a href="https://github.com/Ex-iT/dfp-spy/commit/16b98828d227bd9a22d7007fa119eee32fd78089">Added logo to README</a><br />
 </pre>
