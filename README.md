@@ -5,6 +5,11 @@
                 <img alt="Profile for Ex-iT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" src="https://stackoverflow.com/users/flair/3351720.png?theme=dark" />
             </a>
         </td>
+        <td>
+            <a href="https://steamcommunity.com/id/Ex-iT">
+                <img alt="Profile for Ex-iT at Steam" src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png" />
+            </a>
+        </td>
         <td rowspan="2">
             <a href="https://github.com/Ex-iT/">
                 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-it&layout=compact&theme=algolia" />
@@ -28,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[10:12 27-06-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/ffab5a7b8e4976fa8f0aa6f65eed9dba858aad7b">Put Steam back again</a><br />
     ┌──[10:05 27-06-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
     └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/5801d2eaec53b006ffe092b2fdc4ae995de0959d">Added TryHackMe in favor of Twitter and BitBucket</a><br />
     ┌──[10:00 27-06-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
@@ -46,6 +53,4 @@
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/8bb6a2ac957a41f8e8802f8e8964b24cd25662e8">WIP: todo handling preview window</a><br />
     ┌──[08:59 11-05-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/8e655c679a20727c3f26b0849e54c00e689eb562">Only Win support, added cli args and added logging</a><br />
-    ┌──[11:13 20-04-2021]─[<a href="https://github.com/Ex-iT/md-toc-gen">md-toc-gen</a>]
-    └───■ <a href="https://github.com/Ex-iT/md-toc-gen/commit/a86d356b77079d164c39253b057c18af9fa36426">Updated marked and slugify deps</a><br />
 </pre>
