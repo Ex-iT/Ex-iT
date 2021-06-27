@@ -18,6 +18,11 @@ content = '''<table>
                 <img alt="Profile for Ex-iT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" src="https://stackoverflow.com/users/flair/3351720.png?theme=dark" />
             </a>
         </td>
+        <td>
+            <a href="https://steamcommunity.com/id/Ex-iT">
+                <img alt="Profile for Ex-iT at Steam" src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png" />
+            </a>
+        </td>
         <td rowspan="2">
             <a href="https://github.com/Ex-iT/">
                 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-it&layout=compact&theme=algolia" />
