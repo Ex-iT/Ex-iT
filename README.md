@@ -36,6 +36,10 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[21:11 25-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/bd686e2ab33c9941c6ed2715e52f355d2c754638">Fixed passing of config handle</a><br />
+    ┌──[20:42 25-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
+    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/67228cc5bff4cef5be6d233f1e2312812a39cfbb">Only log to file when debugging and fixed asset paths</a><br />
     ┌──[18:56 24-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/f3b25686799366817ce8b51633703fcf0916e1d7">Removed obsolete getChildWindow</a><br />
     ┌──[14:17 24-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
