@@ -47,10 +47,4 @@
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/f3b25686799366817ce8b51633703fcf0916e1d7">Removed obsolete getChildWindow</a><br />
     ┌──[14:17 24-06-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
     └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/0c51bd86a052bbf99cbebc8ba6f53866357f7490">Fixes for windows handle preview</a><br />
-    ┌──[20:26 13-05-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/835890329c05bb30d701ada3ac1e83ee15fa57c2">Update HTB profile URL</a><br />
-    ┌──[15:46 11-05-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
-    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/8bb6a2ac957a41f8e8802f8e8964b24cd25662e8">WIP: todo handling preview window</a><br />
-    ┌──[08:59 11-05-2021]─[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]
-    └───■ <a href="https://github.com/Ex-iT/save-o-clock/commit/8e655c679a20727c3f26b0849e54c00e689eb562">Only Win support, added cli args and added logging</a><br />
 </pre>
