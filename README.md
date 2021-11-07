@@ -33,12 +33,22 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[23:07 29-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/355838ffe8a1b7055e337b612757e722f466349e">Fixed Typo in component name</a><br />
-    ┌──[23:04 29-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/35d5bbaddabe84e3e1bdf7b82a522ca69f9242c3">Cleaning, next images and start with marking passed movies</a><br />
-    ┌──[20:15 29-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/cd7e82f7b612200141116bd24f8b64d5cdf30ef5">Fixed typo in component name</a><br />
-    ┌──[20:14 29-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/355838ffe8a1b7055e337b612757e722f466349e">Fixed Typo in component name</a><br />
+    ┌──[22:17 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ee41d321239d553c9a62c7222db075ad169d2c06">Separated fetches</a><br />
+    ┌──[22:17 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ee41d321239d553c9a62c7222db075ad169d2c06">Separated fetches</a><br />
+    ┌──[22:14 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/fd77c3dc2c2fb6b0b3ab58ed40f21c45672c8ee5">Switched to client side data fetching</a><br />
+    ┌──[20:50 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/fd77c3dc2c2fb6b0b3ab58ed40f21c45672c8ee5">Switched to client side data fetching</a><br />
+    ┌──[11:38 03-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/75ebbabbe939f54689f362f2445d90f95e45a21e">Improved structure and added live is_passed updating</a><br />
+    ┌──[00:03 01-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/75ebbabbe939f54689f362f2445d90f95e45a21e">Improved structure and added live is_passed updating</a><br />
+    ┌──[21:28 31-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/1c9f190e38a713911090474d3bf51f5df2251239">Removed webpack and specified Node version</a><br />
+    ┌──[21:23 31-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/548c575dc784a4860eeeb86b9107d4d5955b93a7">Webpack as regular dependency</a><br />
+    ┌──[21:16 31-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0a35360709cf308a0858db149461d1f646064d15">Added webpack</a><br />
 </pre>
