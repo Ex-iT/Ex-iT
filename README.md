@@ -33,22 +33,22 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[22:17 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ee41d321239d553c9a62c7222db075ad169d2c06">Separated fetches</a><br />
-    ┌──[22:17 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ee41d321239d553c9a62c7222db075ad169d2c06">Separated fetches</a><br />
-    ┌──[22:14 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/fd77c3dc2c2fb6b0b3ab58ed40f21c45672c8ee5">Switched to client side data fetching</a><br />
-    ┌──[20:50 04-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/fd77c3dc2c2fb6b0b3ab58ed40f21c45672c8ee5">Switched to client side data fetching</a><br />
-    ┌──[11:38 03-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/75ebbabbe939f54689f362f2445d90f95e45a21e">Improved structure and added live is_passed updating</a><br />
-    ┌──[00:03 01-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/75ebbabbe939f54689f362f2445d90f95e45a21e">Improved structure and added live is_passed updating</a><br />
-    ┌──[21:28 31-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/1c9f190e38a713911090474d3bf51f5df2251239">Removed webpack and specified Node version</a><br />
-    ┌──[21:23 31-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/548c575dc784a4860eeeb86b9107d4d5955b93a7">Webpack as regular dependency</a><br />
-    ┌──[21:16 31-10-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0a35360709cf308a0858db149461d1f646064d15">Added webpack</a><br />
+    ┌──[23:22 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0c094bf101042c6eb18b68cccbee5cc71583eb7b">Removed basePath</a><br />
+    ┌──[22:57 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/447ecc7f6e1001e5b0c50b9c65d05bb70d081938">Added basePath</a><br />
+    ┌──[22:55 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/bb49e1fd7da0daf0f63d47431da27f4c555fa207">Fixed broken component</a><br />
+    ┌──[22:51 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ce94536d8b767ae6b022cf8610d32c4bcc998381">Added redirect</a><br />
+    ┌──[22:27 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/b95202da64704c8c245983b2052dd218ee8d8f63">Removed basePath</a><br />
+    ┌──[22:25 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6671eef1f9c1c4fccb782f9aa5f141227903c210">Added basePath</a><br />
+    ┌──[21:56 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/1161c91ba2d5e2cc07b4dd05dc18c297b1f8b45e">Removed basePath</a><br />
+    ┌──[21:49 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/65855928c859404e2262392c93e13269acfd64d7">Added basePath again</a><br />
+    ┌──[21:32 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6a93f621291871908d8a499a36dd8eaaf99fc991">Removed basePath</a><br />
 </pre>
