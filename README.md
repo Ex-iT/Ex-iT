@@ -33,22 +33,18 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[23:22 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0c094bf101042c6eb18b68cccbee5cc71583eb7b">Removed basePath</a><br />
-    ┌──[22:57 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/447ecc7f6e1001e5b0c50b9c65d05bb70d081938">Added basePath</a><br />
-    ┌──[22:55 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/bb49e1fd7da0daf0f63d47431da27f4c555fa207">Fixed broken component</a><br />
-    ┌──[22:51 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ce94536d8b767ae6b022cf8610d32c4bcc998381">Added redirect</a><br />
-    ┌──[22:27 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/b95202da64704c8c245983b2052dd218ee8d8f63">Removed basePath</a><br />
-    ┌──[22:25 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6671eef1f9c1c4fccb782f9aa5f141227903c210">Added basePath</a><br />
-    ┌──[21:56 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/1161c91ba2d5e2cc07b4dd05dc18c297b1f8b45e">Removed basePath</a><br />
-    ┌──[21:49 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/65855928c859404e2262392c93e13269acfd64d7">Added basePath again</a><br />
-    ┌──[21:32 13-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6a93f621291871908d8a499a36dd8eaaf99fc991">Removed basePath</a><br />
+    ┌──[23:30 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/3ed8706a5c8dcbc4bceda5b54512199e8d1718e0">Python migration</a><br />
+    ┌──[23:23 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/c2f786864b4d603aca58c984040ee745a0e66e57">Renamed to index.py</a><br />
+    ┌──[23:21 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/5b192a2e59e78c1b6b1159b7bfd621a88d6995d2">Update template logic</a><br />
+    ┌──[23:12 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/9ce18e84820274ffa64f86bb5982b4fb95009149">Changed naming etc.</a><br />
+    ┌──[23:08 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/12e2dadf3cbba60f3f7565dc56923e7161cd17fe">Updated vercel config version</a><br />
+    ┌──[23:05 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/e09e3acdefa78e8fb1fe9a34bb13e5d1a56ed9a4">Removed requirements.txt</a><br />
+    ┌──[23:02 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/e40918204676313168e1bff6c8ef3a7918600709">Added requirements.tt</a><br />
 </pre>
