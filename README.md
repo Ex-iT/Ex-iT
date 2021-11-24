@@ -33,18 +33,20 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[23:30 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/9d383c43546ea9bde538b13700619129e57eb93a">Removed time for now</a><br />
+    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6c8334a99b035e645d5c6a00d20de18a72efaec3">Updated logical header order</a><br />
+    ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/6a696c30d01603da981797ba18a7bfbec03054ae">Use Python naming convention</a><br />
+    ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/44a44989acbd175c250a8040d9ff5d158962aded">Updated Google fonts include</a><br />
+    ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/f79a63b1ef447980b9714379d24e8d306807e7e6">Added minification and default static folder</a><br />
+    ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/3ed8706a5c8dcbc4bceda5b54512199e8d1718e0">Python migration</a><br />
-    ┌──[23:23 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/c2f786864b4d603aca58c984040ee745a0e66e57">Renamed to index.py</a><br />
-    ┌──[23:21 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+    ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/5b192a2e59e78c1b6b1159b7bfd621a88d6995d2">Update template logic</a><br />
-    ┌──[23:12 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/9ce18e84820274ffa64f86bb5982b4fb95009149">Changed naming etc.</a><br />
-    ┌──[23:08 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/12e2dadf3cbba60f3f7565dc56923e7161cd17fe">Updated vercel config version</a><br />
-    ┌──[23:05 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/e09e3acdefa78e8fb1fe9a34bb13e5d1a56ed9a4">Removed requirements.txt</a><br />
-    ┌──[23:02 19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/e40918204676313168e1bff6c8ef3a7918600709">Added requirements.tt</a><br />
 </pre>
