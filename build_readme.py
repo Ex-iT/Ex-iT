@@ -54,7 +54,7 @@ if __name__ == '__main__':
     push_events = (event for event in json_data if event['type'] == 'PushEvent')
     for event in push_events:
         created_at = event['created_at'][:-1] # Strip the zero offset `Z`
-        formatted_date = datetime.fromisoformat(created_at).strftime('%H:%M %d-%m-%Y')
+        formatted_date = datetime.fromisoformat(created_at).strftime('%d-%m-%Y')
         repo_name = event['repo']['name'];
         repo_label = repo_name.replace(f'{user}/', '') # Remove username and slash
         repo_url = f'{main_url}/{repo_name}'
