@@ -33,6 +33,12 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ec5ca2c1c730df6ecf224e53f541a97662a4d2d0">Added preconnect to assets cdn</a><br />
+    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/3c466cb8175d8f098789bedeca7e2cc9dcdc3af6">Disable asset image optimization</a><br />
+    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/06327bd473c73b30fdbbca185715a4080bc1c0ed">Re-enabled image optimization</a><br />
     ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
     └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/9d383c43546ea9bde538b13700619129e57eb93a">Removed time for now</a><br />
     ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -45,8 +51,4 @@
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/f79a63b1ef447980b9714379d24e8d306807e7e6">Added minification and default static folder</a><br />
     ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/3ed8706a5c8dcbc4bceda5b54512199e8d1718e0">Python migration</a><br />
-    ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/c2f786864b4d603aca58c984040ee745a0e66e57">Renamed to index.py</a><br />
-    ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/5b192a2e59e78c1b6b1159b7bfd621a88d6995d2">Update template logic</a><br />
 </pre>
