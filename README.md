@@ -33,6 +33,10 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[25-12-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ca577a9c90370e14f3c92b018006092506383801">Updated types and deps</a><br />
+    ┌──[25-12-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6ef901f7506d4dded2dffac4e99df26e3a5e4e81">WIP - first test with split api calls</a><br />
     ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
     └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ec5ca2c1c730df6ecf224e53f541a97662a4d2d0">Added preconnect to assets cdn</a><br />
     ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -47,8 +51,4 @@
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/6a696c30d01603da981797ba18a7bfbec03054ae">Use Python naming convention</a><br />
     ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
     └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/44a44989acbd175c250a8040d9ff5d158962aded">Updated Google fonts include</a><br />
-    ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/f79a63b1ef447980b9714379d24e8d306807e7e6">Added minification and default static folder</a><br />
-    ┌──[19-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/3ed8706a5c8dcbc4bceda5b54512199e8d1718e0">Python migration</a><br />
 </pre>
