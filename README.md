@@ -33,22 +33,14 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[25-12-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ca577a9c90370e14f3c92b018006092506383801">Updated types and deps</a><br />
-    ┌──[25-12-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6ef901f7506d4dded2dffac4e99df26e3a5e4e81">WIP - first test with split api calls</a><br />
-    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ec5ca2c1c730df6ecf224e53f541a97662a4d2d0">Added preconnect to assets cdn</a><br />
-    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/3c466cb8175d8f098789bedeca7e2cc9dcdc3af6">Disable asset image optimization</a><br />
-    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/06327bd473c73b30fdbbca185715a4080bc1c0ed">Re-enabled image optimization</a><br />
-    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-    └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/9d383c43546ea9bde538b13700619129e57eb93a">Removed time for now</a><br />
-    ┌──[24-11-2021]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6c8334a99b035e645d5c6a00d20de18a72efaec3">Updated logical header order</a><br />
-    ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/6a696c30d01603da981797ba18a7bfbec03054ae">Use Python naming convention</a><br />
-    ┌──[23-11-2021]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/44a44989acbd175c250a8040d9ff5d158962aded">Updated Google fonts include</a><br />
+    ┌──[21-01-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/6662391c93a2fb7bab12a3ebf4acd961256ff581">Update typescript dep</a><br />
+    ┌──[21-01-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/a9d1181f23663dfbae6cbbad2c3ebdbe76ed0e55">Skeleton for image background / placeholder</a><br />
+    ┌──[21-01-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/e2f2d64183191f97446e0e1072f596a851b5ea0c">Fixed handling of missing objects from the API and additional typings</a><br />
+    ┌──[19-01-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/abc5cd3dfabc18e7909a42ee5d06d454fd481b95">Optimized icon images</a><br />
+    ┌──[19-01-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/42636b485a23423f992b0192b1b1911196859692">SSR + caching test</a><br />
 </pre>
