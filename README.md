@@ -33,18 +33,12 @@
 <h2>GitHub activity</h2>
 
 <pre>
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/cd7f1c986f47f5d9d313891cd9580d2f2b0db0e2">Upgrade Flask version</a><br />
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/a4451f32d5e961b1d95ffc0cddbb54adfb9b16b9">Updated functions index location</a><br />
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/2648b8698b369544055f7ddb6c396363520472ec">Update py</a><br />
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/75170d316459658fc730949ab86c5507b1627e62">Moved index.py to api folder</a><br />
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/a6c31f9730f9b705adc6a088c5d0f34e1054451c">Updated runtime version</a><br />
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/159f41fbc50bcfe973861c784a0141061357761b">Added runtime version</a><br />
-    ┌──[26-01-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-    └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/37eab751f5cd79b1cda1cfa16ac65f1ebc69e2c8">Changed runtime and use Pipfiles</a><br />
+    ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/4b07f4fc9891a686704ea246aba29faa3fc78990">Updated animation to use opacity</a><br />
+    ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/c4efc5e077f9f376d06a41237e77d873076494b0">Fixed start of day date/time</a><br />
+    ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/dfca138d7c65092a25b4ab054b492686a03df0a3">Updated config var name</a><br />
+    ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/79bbdaf2caa9e79eb502414832ece5cc5acd7e43">Added date/time formatting with timezone</a><br />
 </pre>
