@@ -33,6 +33,10 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[15-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/fc1e84d2f1cb6ccfa2f55b1c0d9deb31ef0b5f53">Removed debug logging</a><br />
+    ┌──[15-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/e2a9bc94848ca547bd4aebe8ed73742986730474">Other fix for unusual time offsetting</a><br />
     ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
     └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/4b07f4fc9891a686704ea246aba29faa3fc78990">Updated animation to use opacity</a><br />
     ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
