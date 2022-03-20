@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[17-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/9cab47448b7a2c5b17ef7a35cb8b44b63b072ea6">Updated deps and fixed null value for rating</a><br />
     ┌──[07-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
     └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/93d872c1ab3eb9e309323099b542824a193a1b27">Cleaned up DefaultLayout</a><br />
     ┌──[28-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
