@@ -33,22 +33,20 @@
 <h2>GitHub activity</h2>
 
 <pre>
+    ┌──[26-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0ee313c77524ae5f590c2d07660ea5d3d610096a">Updated deps</a><br />
+    ┌──[21-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/215a2ebbe5e351c6ee83fa7d236fee32eadc3dfd">Initial data client side (#6)
+
+* Testing with client side loading of the data
+
+* Cleaned up CSS
+
+* Updated API caching to 2 hours</a><br />
+    ┌──[20-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/40064260891a3475547eb7ab60bc4999a79e911a">Updated API caching to 2 hours</a><br />
+    ┌──[20-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/3717d3b3c961ec39a11a4657ae88243423158315">Cleaned up CSS</a><br />
     ┌──[17-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
     └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/9cab47448b7a2c5b17ef7a35cb8b44b63b072ea6">Updated deps and fixed null value for rating</a><br />
-    ┌──[07-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/93d872c1ab3eb9e309323099b542824a193a1b27">Cleaned up DefaultLayout</a><br />
-    ┌──[28-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/d7211fa135d5e7422e0fc7a288305cd75a99409b">Sort on original timestamp</a><br />
-    ┌──[28-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/3d480ddaf59bb6f28ebb1a053c63d9339334de18">Updated Next deps</a><br />
-    ┌──[28-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/a677292859a979ea07a641431304102a1375144e">Improved date time handling and time sorting</a><br />
-    ┌──[15-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/fc1e84d2f1cb6ccfa2f55b1c0d9deb31ef0b5f53">Removed debug logging</a><br />
-    ┌──[15-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/e2a9bc94848ca547bd4aebe8ed73742986730474">Other fix for unusual time offsetting</a><br />
-    ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/4b07f4fc9891a686704ea246aba29faa3fc78990">Updated animation to use opacity</a><br />
-    ┌──[12-02-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-    └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/c4efc5e077f9f376d06a41237e77d873076494b0">Fixed start of day date/time</a><br />
 </pre>
