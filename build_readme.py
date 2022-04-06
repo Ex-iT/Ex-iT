@@ -63,8 +63,8 @@ if __name__ == '__main__':
         commit_url = f'{main_url}/{repo_name}/commit/{commit_sha}'
 
         content += f'''
-    ┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]
-    └───■ <a href="{commit_url}">{commit_message}</a><br />'''
+┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]
+└───■ <a href="{commit_url}">{commit_message}</a><br />'''
 
     content += '''
 </pre>'''
