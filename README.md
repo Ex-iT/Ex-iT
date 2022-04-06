@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[06-04-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/492fb9b8efb0e99d6d121131e3f6b956c0cfa98f">Updated format string indentation</a><br />
 ┌──[26-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0ee313c77524ae5f590c2d07660ea5d3d610096a">Updated deps</a><br />
 ┌──[21-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -47,6 +49,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/40064260891a3475547eb7ab60bc4999a79e911a">Updated API caching to 2 hours</a><br />
 ┌──[20-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/3717d3b3c961ec39a11a4657ae88243423158315">Cleaned up CSS</a><br />
-┌──[17-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/9cab47448b7a2c5b17ef7a35cb8b44b63b072ea6">Updated deps and fixed null value for rating</a><br />
 </pre>
