@@ -33,20 +33,16 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/acc9f5d967bc7e1e759fec6f5712a7484f6ac7ca">Fixed property order in CSS</a><br />
+┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/457cb609264e9542433bba50c7a25490d22689dd">Added stylelint config and cleaned up styles</a><br />
+┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ad0f44e48c34f472ce18d92ffe1e93bfab260518">Sorted imports and added Preact for dev build (#7)</a><br />
+┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/aa828419d04af1420e410a0e1e389d107943fff5">Updated node deps</a><br />
 ┌──[06-04-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/492fb9b8efb0e99d6d121131e3f6b956c0cfa98f">Updated format string indentation</a><br />
 ┌──[26-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0ee313c77524ae5f590c2d07660ea5d3d610096a">Updated deps</a><br />
-┌──[21-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/215a2ebbe5e351c6ee83fa7d236fee32eadc3dfd">Initial data client side (#6)
-
-* Testing with client side loading of the data
-
-* Cleaned up CSS
-
-* Updated API caching to 2 hours</a><br />
-┌──[20-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/40064260891a3475547eb7ab60bc4999a79e911a">Updated API caching to 2 hours</a><br />
-┌──[20-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/3717d3b3c961ec39a11a4657ae88243423158315">Cleaned up CSS</a><br />
 </pre>
