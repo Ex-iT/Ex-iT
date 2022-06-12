@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[07-06-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/eefa5a163c234a4394b26259c26b6185e95356ed">updated typescript and preact</a><br />
 ┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/acc9f5d967bc7e1e759fec6f5712a7484f6ac7ca">Fixed property order in CSS</a><br />
 ┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -43,6 +45,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/aa828419d04af1420e410a0e1e389d107943fff5">Updated node deps</a><br />
 ┌──[06-04-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/492fb9b8efb0e99d6d121131e3f6b956c0cfa98f">Updated format string indentation</a><br />
-┌──[26-03-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/0ee313c77524ae5f590c2d07660ea5d3d610096a">Updated deps</a><br />
 </pre>
