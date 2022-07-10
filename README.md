@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[08-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/c15bec52f6c4bd7453528fa1e89754f2050acbb4">Updated deps and used next preact plugin</a><br />
 ┌──[07-06-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/eefa5a163c234a4394b26259c26b6185e95356ed">updated typescript and preact</a><br />
 ┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -43,6 +45,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ad0f44e48c34f472ce18d92ffe1e93bfab260518">Sorted imports and added Preact for dev build (#7)</a><br />
 ┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/aa828419d04af1420e410a0e1e389d107943fff5">Updated node deps</a><br />
-┌──[06-04-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/492fb9b8efb0e99d6d121131e3f6b956c0cfa98f">Updated format string indentation</a><br />
 </pre>
