@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[20-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b254e493429f36958e9a1d53cc597ba6a52f077d">Fixed prettier issues</a><br />
 ┌──[08-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/c15bec52f6c4bd7453528fa1e89754f2050acbb4">Updated deps and used next preact plugin</a><br />
 ┌──[07-06-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
@@ -41,8 +43,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/acc9f5d967bc7e1e759fec6f5712a7484f6ac7ca">Fixed property order in CSS</a><br />
 ┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed/commit/457cb609264e9542433bba50c7a25490d22689dd">Added stylelint config and cleaned up styles</a><br />
-┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/ad0f44e48c34f472ce18d92ffe1e93bfab260518">Sorted imports and added Preact for dev build (#7)</a><br />
-┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/aa828419d04af1420e410a0e1e389d107943fff5">Updated node deps</a><br />
 </pre>
