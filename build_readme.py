@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 from pathlib import Path
-import os
 import requests
 import json
 from datetime import datetime
@@ -37,7 +36,7 @@ content = '''<table>
         </td>
         <td>
             <a href="https://tryhackme.com/p/MrBlonde/">
-                <img alt="TryHackMe :: MrBlonde" src="https://tryhackme-badges.s3.amazonaws.com/MrBlonde.png" />
+                <img alt="TryHackMe :: MrBlonde" src="https://ishetaldonderdag.nl/proxy/thm" />
             </a>
         </td>
     </tr>

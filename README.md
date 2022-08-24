@@ -24,7 +24,7 @@
         </td>
         <td>
             <a href="https://tryhackme.com/p/MrBlonde/">
-                <img alt="TryHackMe :: MrBlonde" src="https://tryhackme-badges.s3.amazonaws.com/MrBlonde.png" />
+                <img alt="TryHackMe :: MrBlonde" src="https://ishetaldonderdag.nl/proxy/thm" />
             </a>
         </td>
     </tr>
@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/729742688cd4d73986731baf7d3927b8e09b89c9">Added proxy / route for THM badge image</a><br />
 ┌──[20-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b254e493429f36958e9a1d53cc597ba6a52f077d">Fixed prettier issues</a><br />
 ┌──[08-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
