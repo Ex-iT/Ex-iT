@@ -33,16 +33,18 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/d8cc7847fc83db58e5dca20796bebc0b07a7404f">Upped python version</a><br />
+┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/1e739d4b0d28f82b678d6e0488f00130a5c428c8">Changed workflow to use pipenv and caching of deps</a><br />
+┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/0e79e4c4ea08364d46540b0309ff61aceb2c7291">Added missing pipenv run workflow</a><br />
+┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c19c611156bb637a185b3b4080a77fab209cf5db">Fixed build workflow</a><br />
+┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/6a4d464635f3d44ac811a30f5a8fb1755dd251f6">Updated to use Pipfile (with pipenv) and update the THM badge url</a><br />
 ┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
 └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/729742688cd4d73986731baf7d3927b8e09b89c9">Added proxy / route for THM badge image</a><br />
 ┌──[20-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b254e493429f36958e9a1d53cc597ba6a52f077d">Fixed prettier issues</a><br />
-┌──[08-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/c15bec52f6c4bd7453528fa1e89754f2050acbb4">Updated deps and used next preact plugin</a><br />
-┌──[07-06-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/eefa5a163c234a4394b26259c26b6185e95356ed">updated typescript and preact</a><br />
-┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/acc9f5d967bc7e1e759fec6f5712a7484f6ac7ca">Fixed property order in CSS</a><br />
-┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/457cb609264e9542433bba50c7a25490d22689dd">Added stylelint config and cleaned up styles</a><br />
 </pre>
