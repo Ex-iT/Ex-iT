@@ -26,7 +26,7 @@ jobs:
         pipenv install --dev
     - name: Update README
       run: |
-        python build_readme.py
+        pipenv run python build_readme.py
         cat README.md
     - name: Commit and push if README changed
       run: |
