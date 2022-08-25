@@ -33,6 +33,8 @@
 <h2>GitHub activity</h2>
 
 <pre>
+┌──[25-08-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/8eacfbd060290e4d2d643a483d2225c9bb237444">Small CSS update</a><br />
 ┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/d8cc7847fc83db58e5dca20796bebc0b07a7404f">Upped python version</a><br />
 ┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
