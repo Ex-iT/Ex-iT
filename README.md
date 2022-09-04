@@ -33,20 +33,16 @@
 <h2>GitHub activity</h2>
 
 <pre>
-┌──[25-08-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/8eacfbd060290e4d2d643a483d2225c9bb237444">Small CSS update</a><br />
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/d8cc7847fc83db58e5dca20796bebc0b07a7404f">Upped python version</a><br />
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/1e739d4b0d28f82b678d6e0488f00130a5c428c8">Changed workflow to use pipenv and caching of deps</a><br />
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/0e79e4c4ea08364d46540b0309ff61aceb2c7291">Added missing pipenv run workflow</a><br />
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c19c611156bb637a185b3b4080a77fab209cf5db">Fixed build workflow</a><br />
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/6a4d464635f3d44ac811a30f5a8fb1755dd251f6">Updated to use Pipfile (with pipenv) and update the THM badge url</a><br />
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/729742688cd4d73986731baf7d3927b8e09b89c9">Added proxy / route for THM badge image</a><br />
-┌──[20-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b254e493429f36958e9a1d53cc597ba6a52f077d">Fixed prettier issues</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/e2265aa8570bd7e95bbb295e3b560d61e5851790">Combined initial HTTP request on Home</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b9288c2326d780b1a66c0c02b489c3eb38740b74">Fixed promise typing</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d14a482d8c713d22e11416e5ebbb3e7f290b7ed5">Position the background image top left</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/32fe83abe82abfa946107ff38cecee2e2c2c384b">Fixed typo in URL</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b65215527b0988a1c61298545ce44d02b1bba10d">Changed the prefixUrl for HTTP requests (again)</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/992d73ea54b35a495fd089a49bb068f88fa2df97">Added dynamic baseUrl for HTTP requests</a><br />
 </pre>
