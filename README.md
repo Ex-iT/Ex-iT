@@ -30,19 +30,21 @@
     </tr>
 </table>
 
-<h2>GitHub activity</h2>
+<h2>Recent activity</h2>
 
 <pre>
-┌──[24-08-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/729742688cd4d73986731baf7d3927b8e09b89c9">Added proxy / route for THM badge image</a><br />
-┌──[20-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b254e493429f36958e9a1d53cc597ba6a52f077d">Fixed prettier issues</a><br />
-┌──[08-07-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/c15bec52f6c4bd7453528fa1e89754f2050acbb4">Updated deps and used next preact plugin</a><br />
-┌──[07-06-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/eefa5a163c234a4394b26259c26b6185e95356ed">updated typescript and preact</a><br />
-┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/acc9f5d967bc7e1e759fec6f5712a7484f6ac7ca">Fixed property order in CSS</a><br />
-┌──[27-05-2022]─[<a href="https://github.com/Ex-iT/movie-feed">movie-feed</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed/commit/457cb609264e9542433bba50c7a25490d22689dd">Added stylelint config and cleaned up styles</a><br />
+┌──[08-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/526d9f11de041a319d71a2df34fd3fa07694366c">Added IMDb and YT links</a><br />
+┌──[04-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ab9be109cc7206729803d8692ebd13879b21eff8">Optimized head and images</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/e2265aa8570bd7e95bbb295e3b560d61e5851790">Combined initial HTTP request on Home</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b9288c2326d780b1a66c0c02b489c3eb38740b74">Fixed promise typing</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d14a482d8c713d22e11416e5ebbb3e7f290b7ed5">Position the background image top left</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/32fe83abe82abfa946107ff38cecee2e2c2c384b">Fixed typo in URL</a><br />
+┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b65215527b0988a1c61298545ce44d02b1bba10d">Changed the prefixUrl for HTTP requests (again)</a><br />
 </pre>

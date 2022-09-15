@@ -3,13 +3,14 @@ from pathlib import Path
 import requests
 import json
 from datetime import datetime
+import string
 
 file_path = Path(__file__).parent.resolve() / 'README.md'
 user = 'Ex-iT'
 main_url = 'https://github.com'
 api_url = 'https://api.github.com'
 headers = { 'Accept': 'application/vnd.github.v3+json' }
-params = { 'per_page': '10' }
+params = { 'per_page': '15' }
 content = '''<table>
     <tr>
         <td>
@@ -42,20 +43,20 @@ content = '''<table>
     </tr>
 </table>
 
-<h2>GitHub activity</h2>
+<h2>Recent activity</h2>
 
 <pre>'''
 
 if __name__ == '__main__':
-    response = requests.get(f'{api_url}/users/{user}/events', headers=headers, params=params)
+    response = requests.get(f'{api_url}/users/{user}/events/public', headers=headers, params=params)
     json_data = json.loads(response.text)
 
     push_events = (event for event in json_data if event['type'] == 'PushEvent')
     for event in push_events:
-        created_at = event['created_at'][:-1] # Strip the zero offset `Z`
-        formatted_date = datetime.fromisoformat(created_at).strftime('%d-%m-%Y')
+        created_at = datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ')
+        formatted_date = created_at.strftime('%d-%m-%Y')
         repo_name = event['repo']['name'];
-        repo_label = repo_name.replace(f'{user}/', '') # Remove username and slash
+        repo_label = string.capwords(repo_name.replace(f'{user}/', '').replace('-', ' ')) # Lazy way for a pretty repo name
         repo_url = f'{main_url}/{repo_name}'
         commit_message = event['payload']['commits'][0]['message'] # Always take the first message
         commit_sha = event['payload']['commits'][0]['sha']
