@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[15-09-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/eeeba88e9637fa61397403066739bf1ab6625fde">Fixed handling of datetime and improved repo label</a><br />
 ┌──[08-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/526d9f11de041a319d71a2df34fd3fa07694366c">Added IMDb and YT links</a><br />
 ┌──[04-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
@@ -45,6 +47,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d14a482d8c713d22e11416e5ebbb3e7f290b7ed5">Position the background image top left</a><br />
 ┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/32fe83abe82abfa946107ff38cecee2e2c2c384b">Fixed typo in URL</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b65215527b0988a1c61298545ce44d02b1bba10d">Changed the prefixUrl for HTTP requests (again)</a><br />
 </pre>
