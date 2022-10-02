@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[29-09-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">Ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/35c33ce3bfcee2eb9b3f006b2ac151b8f9c1931f">Removed temp debug text</a><br />
 ┌──[15-09-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/eeeba88e9637fa61397403066739bf1ab6625fde">Fixed handling of datetime and improved repo label</a><br />
 ┌──[08-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
@@ -45,6 +47,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b9288c2326d780b1a66c0c02b489c3eb38740b74">Fixed promise typing</a><br />
 ┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d14a482d8c713d22e11416e5ebbb3e7f290b7ed5">Position the background image top left</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/32fe83abe82abfa946107ff38cecee2e2c2c384b">Fixed typo in URL</a><br />
 </pre>
