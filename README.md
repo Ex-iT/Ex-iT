@@ -33,6 +33,18 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[05-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/bd6502443670c23024af30391966f2440aba187d">Used dark themed channel logo's and updated asset version</a><br />
+┌──[05-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/9b81f532ba1eb06c0887f0e15dfb5ef17e0eecaf">Improved error handling when requests time out</a><br />
+┌──[05-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/9924c9bc75bd50e854e246e7dd059fe46696b243">Updated caching URL</a><br />
+┌──[05-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/27f77076c5818ea7b28ec5ee9f8c8ebc467546ec">Added Firebase and caching api route</a><br />
+┌──[05-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0a03fa94fda17acc45c8c48a1ac38586ab1d9333">Updated README</a><br />
+┌──[04-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/714c92877d23404d104b699dc69a0d51a91d253d">Updated cache endpoint url (preview)</a><br />
 ┌──[29-09-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">Ishetaldonderdag</a>]
 └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/35c33ce3bfcee2eb9b3f006b2ac151b8f9c1931f">Removed temp debug text</a><br />
 ┌──[15-09-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
@@ -41,10 +53,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/526d9f11de041a319d71a2df34fd3fa07694366c">Added IMDb and YT links</a><br />
 ┌──[04-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ab9be109cc7206729803d8692ebd13879b21eff8">Optimized head and images</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/e2265aa8570bd7e95bbb295e3b560d61e5851790">Combined initial HTTP request on Home</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b9288c2326d780b1a66c0c02b489c3eb38740b74">Fixed promise typing</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d14a482d8c713d22e11416e5ebbb3e7f290b7ed5">Position the background image top left</a><br />
 </pre>
