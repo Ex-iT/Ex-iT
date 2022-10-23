@@ -33,58 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
-┌──[13-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/37487b4274f8922d39cd73d27ea7fd859e7cb524">Fixed alignment of progress indicator</a><br />
-┌──[13-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b97898564a6b7c42129602c54557e12ae92f0165">Ssr poc (#4)
+┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/334c0c037d463ab6744c35af8bb11b9db3c26e00">Updated Git actions request url</a><br />
+┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0fe22e30ef3803f8098684517b91c0eef05502a4">Added domain to runtime config</a><br />
+┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/5c77a19bb9a5f2d7bd2ad08fb57341348759637d">Cleaned up and renamed 'cacheables' to programmes</a><br />
+┌──[18-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ab2c1da859be4aee931be03e7dfca4c9e6ed54f8">Structure and async improvements (#5)
 
-* SSR attempt
-
-* Added protocol to VERCEL_URL
-
-* Updated VERCEL URL env var to Nuxt specific
-
-* Using privateRuntimeConfig
-
-* Simple privateRuntimeConfig setting
-
-* Added debug logging
-
-* Fixed debug logging
-
-* Disabled caching on /cache for debugging and updated nuxt conf with VERCEL_URL
-
-* DEBUG TEST
-
-* Debug vercel_url
-
-* Fixed baseUrl with Vercel Url
-
-* Debug $http baseUrl
-
-* Using asyncData
-
-* Fixed responsiveness of the card image
-
-* Improved image sizes
-
-* Basic image sizing</a><br />
-┌──[13-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/05031a1b4469f63a38cc350286630ad8833b19bd">Basic image sizing</a><br />
-┌──[13-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/acd442dadc1a82865d04250b6c2c3a36a470fbdb">Improved image sizes</a><br />
-┌──[13-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/65651c5a7bacceda528baaaf8b0d8a1d53d3a766">Fixed responsiveness of the card image</a><br />
-┌──[13-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/06d8cf14d5225cca4db926ffadda92b4848edfe9">Using asyncData</a><br />
-┌──[12-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/57df00665cea4b9177e4a0ab66947108b28760d0">Debug $http baseUrl</a><br />
-┌──[12-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a0c574901ea7e0dc1043cd6d264f7abf5c381b62">Fixed baseUrl with Vercel Url</a><br />
-┌──[12-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a3f44c8c7c387ddb7679d1ed2a63737d3c85b266">Debug vercel_url</a><br />
-┌──[12-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/f28d6d4dba8b0fe5d877aadeaa9f9ea104ca3751">DEBUG TEST</a><br />
-┌──[12-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/dfbc426c6d4446023e8ad9a68d3bcdeabc8d5b00">Disabled caching on /cache for debugging and updated nuxt conf with VERCEL_URL</a><br />
+Restructured components and improved async behaviour</a><br />
+┌──[18-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/9c7b24272a5688d310eb9aed369d4931b992b490">Enabled short caching again</a><br />
 </pre>
