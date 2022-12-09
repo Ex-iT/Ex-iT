@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a29133c44ca4c5828b9260a0fcb59605ac1a29ef">Added node version in package json</a><br />
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/047c61ce8e774aa910ef63ab4081ab497d19758a">Renamed RTL 9 to SBS 9, updated assets version and dependencies</a><br />
 ┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/733176dbe16b04ba3ce89b49e84d8e4bd1523db0">Added cache to unsupported API methods</a><br />
 ┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
