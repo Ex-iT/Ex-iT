@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c90a986db7518a4f03001dbcfcbe8cd24fc4f014">Bumped Python version for github actions</a><br />
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/50ff2e46744ddb54c68b56ba78007de039080470">Bumped Python version</a><br />
 ┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a29133c44ca4c5828b9260a0fcb59605ac1a29ef">Added node version in package json</a><br />
 ┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
@@ -49,8 +53,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/986a5c72a4bcf0638ec2b78d0215d0407fcbe8f6">Fixed refs in the Accordion</a><br />
 ┌──[24-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/62e43670c83b95f43f0e296651ee7e19bb0804a4">Improved Accordion animation</a><br />
-┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/334c0c037d463ab6744c35af8bb11b9db3c26e00">Updated Git actions request url</a><br />
-┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0fe22e30ef3803f8098684517b91c0eef05502a4">Added domain to runtime config</a><br />
 </pre>
