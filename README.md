@@ -34,6 +34,10 @@
 
 <pre>
 ┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/2a98ed53b2d61dc8563608aa363593a501fcea7c">Fixed typo in Github Actions version</a><br />
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/928862467d5ca55f9f99c51d9b21780144cf5ff1">Bumped all Github Actions versions</a><br />
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c90a986db7518a4f03001dbcfcbe8cd24fc4f014">Bumped Python version for github actions</a><br />
 ┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/50ff2e46744ddb54c68b56ba78007de039080470">Bumped Python version</a><br />
