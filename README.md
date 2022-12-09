@@ -33,18 +33,24 @@
 <h2>Recent activity</h2>
 
 <pre>
-┌──[29-09-2022]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">Ishetaldonderdag</a>]
-└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/35c33ce3bfcee2eb9b3f006b2ac151b8f9c1931f">Removed temp debug text</a><br />
-┌──[15-09-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/eeeba88e9637fa61397403066739bf1ab6625fde">Fixed handling of datetime and improved repo label</a><br />
-┌──[08-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/526d9f11de041a319d71a2df34fd3fa07694366c">Added IMDb and YT links</a><br />
-┌──[04-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ab9be109cc7206729803d8692ebd13879b21eff8">Optimized head and images</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/e2265aa8570bd7e95bbb295e3b560d61e5851790">Combined initial HTTP request on Home</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b9288c2326d780b1a66c0c02b489c3eb38740b74">Fixed promise typing</a><br />
-┌──[01-09-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d14a482d8c713d22e11416e5ebbb3e7f290b7ed5">Position the background image top left</a><br />
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a29133c44ca4c5828b9260a0fcb59605ac1a29ef">Added node version in package json</a><br />
+┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/047c61ce8e774aa910ef63ab4081ab497d19758a">Renamed RTL 9 to SBS 9, updated assets version and dependencies</a><br />
+┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/733176dbe16b04ba3ce89b49e84d8e4bd1523db0">Added cache to unsupported API methods</a><br />
+┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b6195c59cd13d025b510b870e4720adf92783a31">Fixed shouldUpdate logic</a><br />
+┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/54fd46f6f2aa4bfd84bd7e8cd198288adbb605d8">Add Details (Accordion) with animation (#7)</a><br />
+┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/228c216286cb6c3ac6043e8916de9dafd7a7c0cd">Fixes for Safari and small clean up</a><br />
+┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/986a5c72a4bcf0638ec2b78d0215d0407fcbe8f6">Fixed refs in the Accordion</a><br />
+┌──[24-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/62e43670c83b95f43f0e296651ee7e19bb0804a4">Improved Accordion animation</a><br />
+┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/334c0c037d463ab6744c35af8bb11b9db3c26e00">Updated Git actions request url</a><br />
+┌──[20-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0fe22e30ef3803f8098684517b91c0eef05502a4">Added domain to runtime config</a><br />
 </pre>
