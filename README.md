@@ -33,28 +33,22 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d8dd1c5c855ef0b2ad7208823aaaa3f5290ab61f">Fixed typo in README</a><br />
+┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ab65ac8fec98775ff271b378c0c27d0110d4aa0b">Reverted node-fetch update, Updated node version for Github CI and added badges to the README</a><br />
+┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/899572a15d93f6044222ab86485e5b6b1a5613fc">Updated packages and bumped assets url version</a><br />
+┌──[10-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/fe9c2601a05f15ae923dae20f9c726223bd09b59">Added Stylelint and main bg image</a><br />
+┌──[09-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/64e0465c6b7f053d2ffaab51c938320517017bde">Added basic setup</a><br />
+┌──[28-12-2022]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/13d346431c8dfcc38766467cc8bafd7701d5c375">Updated README</a><br />
+┌──[17-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0a0b438ac534dd252f0974ecde9ae8f03580519e">Re-enabled `shouldUpdate` check</a><br />
 ┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/2a98ed53b2d61dc8563608aa363593a501fcea7c">Fixed typo in Github Actions version</a><br />
 ┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/928862467d5ca55f9f99c51d9b21780144cf5ff1">Bumped all Github Actions versions</a><br />
-┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c90a986db7518a4f03001dbcfcbe8cd24fc4f014">Bumped Python version for github actions</a><br />
-┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/50ff2e46744ddb54c68b56ba78007de039080470">Bumped Python version</a><br />
-┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a29133c44ca4c5828b9260a0fcb59605ac1a29ef">Added node version in package json</a><br />
-┌──[09-12-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/047c61ce8e774aa910ef63ab4081ab497d19758a">Renamed RTL 9 to SBS 9, updated assets version and dependencies</a><br />
-┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/733176dbe16b04ba3ce89b49e84d8e4bd1523db0">Added cache to unsupported API methods</a><br />
-┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/b6195c59cd13d025b510b870e4720adf92783a31">Fixed shouldUpdate logic</a><br />
-┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/54fd46f6f2aa4bfd84bd7e8cd198288adbb605d8">Add Details (Accordion) with animation (#7)</a><br />
-┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/228c216286cb6c3ac6043e8916de9dafd7a7c0cd">Fixes for Safari and small clean up</a><br />
-┌──[25-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/986a5c72a4bcf0638ec2b78d0215d0407fcbe8f6">Fixed refs in the Accordion</a><br />
-┌──[24-10-2022]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/62e43670c83b95f43f0e296651ee7e19bb0804a4">Improved Accordion animation</a><br />
 </pre>
