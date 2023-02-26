@@ -33,6 +33,20 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[24-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/3be6f97198b7ddc1bc7165416447a7be05922f72">Update stylelint config</a><br />
+┌──[24-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/4a4391b3a0c875172cc9919d6960f623c4c931b0">Fixed stylelint arguments</a><br />
+┌──[24-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/aa5716955eb6f01da8794867cf297abaa75dee4a">Fixed line endings</a><br />
+┌──[24-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/10b8e2661b79b1b17ee7e8036c375ba6ee95307e">Major refactor</a><br />
+┌──[20-02-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/ccbcdb62ccd84f9043a99b8bdb9efb27d466aa2c">Cleanup CSS</a><br />
+┌──[20-02-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/3dbd5344d0d25a3ac01a1ba83dbc7ad3bb11fb14">Updated links in README</a><br />
+┌──[20-02-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/8d6c34a52ee812f4dd178d94d7ded05d61ed1d48">Updated packages</a><br />
 ┌──[03-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/5bae43fdd932d131fb61a77e3faa59831f60306c">Cleaned up shared ErrorObject</a><br />
 ┌──[03-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
@@ -43,14 +57,4 @@
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/bc9a08029817091fdfc032b9c17d24bccabed39b">Remove caching from actions</a><br />
 ┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d8dd1c5c855ef0b2ad7208823aaaa3f5290ab61f">Fixed typo in README</a><br />
-┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ab65ac8fec98775ff271b378c0c27d0110d4aa0b">Reverted node-fetch update, Updated node version for Github CI and added badges to the README</a><br />
-┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/899572a15d93f6044222ab86485e5b6b1a5613fc">Updated packages and bumped assets url version</a><br />
-┌──[10-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/fe9c2601a05f15ae923dae20f9c726223bd09b59">Added Stylelint and main bg image</a><br />
-┌──[09-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/64e0465c6b7f053d2ffaab51c938320517017bde">Added basic setup</a><br />
-┌──[28-12-2022]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/13d346431c8dfcc38766467cc8bafd7701d5c375">Updated README</a><br />
 </pre>
