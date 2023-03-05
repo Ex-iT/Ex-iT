@@ -33,6 +33,12 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/8777170036c0c03fb0ccf914673cd2fbab48adc4">Updated to properly use site.webmanifest</a><br />
+┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/753ad5ca224f4951d1e6887bef7da92ea7e79b6e">Updated BackgroundImage using nuxt-picture</a><br />
+┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/3622ad3d5e1945b15d65f1be73714bdbbe0a2ab8">Fixed typescript and linting issues</a><br />
 ┌──[24-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/3be6f97198b7ddc1bc7165416447a7be05922f72">Update stylelint config</a><br />
 ┌──[24-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
@@ -53,8 +59,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/a2ed3a2c5638924f66f61c65161ba5b5596a7765">Initial layouting setup</a><br />
 ┌──[03-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/b5b1f79481f41dea4fa33848846ba357f87f1bfd">Fixed yaml file indentation</a><br />
-┌──[23-01-2023]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/bc9a08029817091fdfc032b9c17d24bccabed39b">Remove caching from actions</a><br />
-┌──[18-01-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d8dd1c5c855ef0b2ad7208823aaaa3f5290ab61f">Fixed typo in README</a><br />
 </pre>
