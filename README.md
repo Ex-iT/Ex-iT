@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[06-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/a73cd7b31a48e7245c623e4edd6f7c651edd6d47">Clean up and using script setup now</a><br />
 ┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/8777170036c0c03fb0ccf914673cd2fbab48adc4">Updated to properly use site.webmanifest</a><br />
 ┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
