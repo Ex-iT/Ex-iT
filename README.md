@@ -55,10 +55,4 @@
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/3dbd5344d0d25a3ac01a1ba83dbc7ad3bb11fb14">Updated links in README</a><br />
 ┌──[20-02-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/8d6c34a52ee812f4dd178d94d7ded05d61ed1d48">Updated packages</a><br />
-┌──[03-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/5bae43fdd932d131fb61a77e3faa59831f60306c">Cleaned up shared ErrorObject</a><br />
-┌──[03-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/a2ed3a2c5638924f66f61c65161ba5b5596a7765">Initial layouting setup</a><br />
-┌──[03-02-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/b5b1f79481f41dea4fa33848846ba357f87f1bfd">Fixed yaml file indentation</a><br />
 </pre>
