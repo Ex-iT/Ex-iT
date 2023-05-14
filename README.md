@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[10-05-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3ee5be35aebebf18bfb7a39ad7d2446603714f2b">Update assets URL and dependencies</a><br />
 ┌──[06-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/a73cd7b31a48e7245c623e4edd6f7c651edd6d47">Clean up and using script setup now</a><br />
 ┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
