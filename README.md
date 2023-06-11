@@ -33,14 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[05-06-2023]─[<a href="https://github.com/Ex-iT/dotfiles">Dotfiles</a>]
+└───■ <a href="https://github.com/Ex-iT/dotfiles/commit/d5464d2df8ace73e606cd04a6572925a8eacd202">Update and rename genmon_ip.sh to genmon_vpnip.sh
+
+Improved with better boilerplate code</a><br />
 ┌──[10-05-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3ee5be35aebebf18bfb7a39ad7d2446603714f2b">Update assets URL and dependencies</a><br />
-┌──[06-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/a73cd7b31a48e7245c623e4edd6f7c651edd6d47">Clean up and using script setup now</a><br />
-┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/8777170036c0c03fb0ccf914673cd2fbab48adc4">Updated to properly use site.webmanifest</a><br />
-┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/753ad5ca224f4951d1e6887bef7da92ea7e79b6e">Updated BackgroundImage using nuxt-picture</a><br />
-┌──[04-03-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/3622ad3d5e1945b15d65f1be73714bdbbe0a2ab8">Fixed typescript and linting issues</a><br />
 </pre>
