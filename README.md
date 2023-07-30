@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[27-07-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/e011489713b0d20f40117dcf32f7b8ebf7f95308">Downgraded yarn version for Vercel</a><br />
 ┌──[05-06-2023]─[<a href="https://github.com/Ex-iT/dotfiles">Dotfiles</a>]
 └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/d5464d2df8ace73e606cd04a6572925a8eacd202">Update and rename genmon_ip.sh to genmon_vpnip.sh
 
