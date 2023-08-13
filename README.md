@@ -33,12 +33,12 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[09-08-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0cf1815ae79263b1d717919a07542eb793ce1c5b">Fixed API changes in MetaData Guidance</a><br />
 ┌──[27-07-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
 └───■ <a href="https://github.com/Ex-iT/P2K2/commit/e011489713b0d20f40117dcf32f7b8ebf7f95308">Downgraded yarn version for Vercel</a><br />
 ┌──[05-06-2023]─[<a href="https://github.com/Ex-iT/dotfiles">Dotfiles</a>]
 └───■ <a href="https://github.com/Ex-iT/dotfiles/commit/d5464d2df8ace73e606cd04a6572925a8eacd202">Update and rename genmon_ip.sh to genmon_vpnip.sh
 
 Improved with better boilerplate code</a><br />
-┌──[10-05-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3ee5be35aebebf18bfb7a39ad7d2446603714f2b">Update assets URL and dependencies</a><br />
 </pre>
