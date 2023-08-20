@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[19-08-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/1de56328b271e17b22f68857ad1c51e2e2cbe4d7">Initial extension setup</a><br />
+┌──[19-08-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/87d51961b291bda8ff623c8408c4cc4638f3354f">WIP - Big refactor</a><br />
 ┌──[09-08-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0cf1815ae79263b1d717919a07542eb793ce1c5b">Fixed API changes in MetaData Guidance</a><br />
 ┌──[27-07-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
