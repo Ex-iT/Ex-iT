@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[02-09-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/f44ee6fe44e28dc86255d7c6573497e89cf51c19">Added Vuetify and capcodes</a><br />
 ┌──[19-08-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
 └───■ <a href="https://github.com/Ex-iT/P2K2/commit/1de56328b271e17b22f68857ad1c51e2e2cbe4d7">Initial extension setup</a><br />
 ┌──[19-08-2023]─[<a href="https://github.com/Ex-iT/CDR-Player">Cdr Player</a>]
