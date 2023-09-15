@@ -69,4 +69,4 @@ if __name__ == '__main__':
     content += '''
 </pre>'''
 
-file_path.open('w').write(content)
+    file_path.open('w', encoding='utf-8').write(content)
