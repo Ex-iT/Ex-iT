@@ -37,7 +37,7 @@ content = '''<table>
         </td>
         <td>
             <a href="https://tryhackme.com/p/MrBlonde/">
-                <img alt="TryHackMe :: MrBlonde" src="https://ishetaldonderdag.nl/proxy/thm" />
+                <img alt="TryHackMe :: MrBlonde" src="https://tryhackme-badges.s3.amazonaws.com/MrBlonde.png" />
             </a>
         </td>
     </tr>
