@@ -24,7 +24,7 @@
         </td>
         <td>
             <a href="https://tryhackme.com/p/MrBlonde/">
-                <img alt="TryHackMe :: MrBlonde" src="https://ishetaldonderdag.nl/proxy/thm" />
+                <img alt="TryHackMe :: MrBlonde" src="https://tryhackme-badges.s3.amazonaws.com/MrBlonde.png" />
             </a>
         </td>
     </tr>
@@ -33,6 +33,12 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[16-09-2023]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/1fa3ba19f65ee0a49dc450867beb09beea9ca144">Updated link to THM badge since its now returning a content-type of image/png</a><br />
+┌──[15-09-2023]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">Ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/54d692a4fcb3b25b875c404f7349de9ce098eace">Update deps</a><br />
+┌──[15-09-2023]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/e874a7d035e4ba328fd432349bc9a8c044fcb2ad">Added UTF-8 encoding</a><br />
 ┌──[15-09-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3b1269aae341a3cd099fe4c71716faa5f6281176">Remove firebase (#8)
 
@@ -53,6 +59,4 @@
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/87d51961b291bda8ff623c8408c4cc4638f3354f">WIP - Big refactor</a><br />
 ┌──[09-08-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0cf1815ae79263b1d717919a07542eb793ce1c5b">Fixed API changes in MetaData Guidance</a><br />
-┌──[27-07-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/e011489713b0d20f40117dcf32f7b8ebf7f95308">Downgraded yarn version for Vercel</a><br />
 </pre>
