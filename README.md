@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[20-09-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/7ad01abf342af4916875e515f4c15e0a9e6b1190">Updated Slugify to replace apostrophe</a><br />
 ┌──[16-09-2023]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">Ishetaldonderdag</a>]
 └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/80790d8eaded772dd14bb5f97e86b980d9a03eff">Added async attribute to inline script</a><br />
 ┌──[16-09-2023]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">Ishetaldonderdag</a>]
@@ -59,6 +61,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/fdefabb919a78803ad1e0562862a61f3b43a95cc">Removed Status view</a><br />
 ┌──[14-09-2023]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">Movie Feed Nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3ec44da0146a30aaa05926be78f75af9e655e1a5">Updated assets version</a><br />
-┌──[02-09-2023]─[<a href="https://github.com/Ex-iT/P2K2">P2k2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/f44ee6fe44e28dc86255d7c6573497e89cf51c19">Added Vuetify and capcodes</a><br />
 </pre>
