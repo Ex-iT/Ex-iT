@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[05-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex It</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/a64b9d6c0afb72dcb5c1d3d1225971ccf231cd64">updated .gitignore to match venv as a directory</a><br />
 ┌──[15-03-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt3">Movie Feed Nuxt3</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt3/commit/073b7b997783155ee4a275937f8d4c7e8a9afc40">Updated packages and fixed linting issues</a><br />
 </pre>
