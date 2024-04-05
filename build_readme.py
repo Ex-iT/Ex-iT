@@ -54,12 +54,13 @@ def pushMessage(event):
     repo_label = repo_name.replace(f"{user}/", "")
     repo_url = f"{main_url}/{repo_name}"
 
-    commit_texts = f"""┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]"""
+    commit_texts = f"""
+┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]"""
 
     for commit in event["payload"]["commits"]:
         commit_texts += commitMessage(commit, repo_name)
 
-    return commit_texts + "<br /><br />"
+    return commit_texts + "<br />"
 
 
 def commitMessage(commit, repo_name):
