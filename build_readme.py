@@ -4,13 +4,13 @@ import requests
 import json
 from datetime import datetime
 
-file_path = Path(__file__).parent.resolve() / 'README.md'
-user = 'Ex-iT'
-main_url = 'https://github.com'
-api_url = 'https://api.github.com'
-headers = { 'Accept': 'application/vnd.github.v3+json' }
-params = { 'per_page': '15' }
-content = '''<table>
+file_path = Path(__file__).parent.resolve() / "README.md"
+user = "Ex-iT"
+main_url = "https://github.com"
+api_url = "https://api.github.com"
+headers = {"Accept": "application/vnd.github.v3+json"}
+params = {"per_page": "15"}
+content = """<table>
     <tr>
         <td>
             <a href="https://stackoverflow.com/users/3351720/ex-it">
@@ -44,39 +44,42 @@ content = '''<table>
 
 <h2>Recent activity</h2>
 
-<pre>'''
+<pre>"""
+
 
 def pushMessage(event):
-    for event in (event for event in json_data if event['type'] == 'PushEvent'):
-        created_at = datetime.strptime(event['created_at'], '%Y-%m-%dT%H:%M:%SZ')
-        formatted_date = created_at.strftime('%d-%m-%Y')
-        repo_name = event['repo']['name'];
-        repo_label = repo_name.replace(f'{user}/', '')
-        repo_url = f'{main_url}/{repo_name}'
+    created_at = datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+    formatted_date = created_at.strftime("%d-%m-%Y")
+    repo_name = event["repo"]["name"]
+    repo_label = repo_name.replace(f"{user}/", "")
+    repo_url = f"{main_url}/{repo_name}"
 
-        commit_texts = f'''┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]'''
+    commit_texts = f"""┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]"""
 
-        for commit in event['payload']['commits']:
-            commit_texts += commitMessage(commit, repo_name)
+    for commit in event["payload"]["commits"]:
+        commit_texts += commitMessage(commit, repo_name)
 
-        return commit_texts + '<br /><br />'
+    return commit_texts + "<br /><br />"
+
 
 def commitMessage(commit, repo_name):
-    commit_url = f'''{main_url}/{repo_name}/commit/{commit['sha']}'''
-    commit_message = commit['message']
+    commit_url = f"""{main_url}/{repo_name}/commit/{commit['sha']}"""
+    commit_message = commit["message"]
 
-    return f'''
-└───■ <a href="{commit_url}">{commit_message}</a>'''
+    return f"""
+└───■ <a href="{commit_url}">{commit_message}</a>"""
 
 
-if __name__ == '__main__':
-    response = requests.get(f'{api_url}/users/{user}/events/public', headers=headers, params=params)
+if __name__ == "__main__":
+    response = requests.get(
+        f"{api_url}/users/{user}/events/public", headers=headers, params=params
+    )
     json_data = json.loads(response.text)
 
-    for event in (event for event in json_data if event['type'] == 'PushEvent'):
+    for event in (event for event in json_data if event["type"] == "PushEvent"):
         content += pushMessage(event)
 
-    content += '''
-</pre>'''
+    content += """
+</pre>"""
 
-    file_path.open('w', encoding='utf-8').write(content)
+    file_path.open("w", encoding="utf-8").write(content)
