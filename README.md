@@ -34,6 +34,8 @@
 
 <pre>
 ┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/931f1bd937e584fd35b562b973d50027b2348487">Reverted ignoring of README.md</a><br />
+┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/cdd05024a6bb62162955a24f3c04dd9f03b6c45a">put README.md in .gitignore to avoid conflicts</a><br />
 ┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c2c04433efdec5bca82672d15d10094ab6d1f81a">Updated GitHub Actions versions</a>
