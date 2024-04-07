@@ -34,6 +34,8 @@
 
 <pre>
 ┌──[05-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/ad2f131e1600feb6ba6129789596aa0cc4f28a0a">moved venv/ to .venv/ and lowered python version requirement</a><br />
+┌──[05-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/df7190c11ef44bea6f873b3789f498defc91de18">Small readme.md source clean up</a><br />
 ┌──[05-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c7064375a917790249149f70aae0c9a7a9927c52">Removed duplicate loop while generating pushed messages</a><br />
