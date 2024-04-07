@@ -33,6 +33,11 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c2c04433efdec5bca82672d15d10094ab6d1f81a">Updated GitHub Actions versions</a>
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/993c8d7a766813a0d7e65a31b0d5115ac7c17f29">Merge branch 'master' of github.com:Ex-iT/Ex-iT</a><br />
+┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/1e07b00122126f9478d33aa8d19b8d75cbc5a847">Added TODO notes, using bun now and fixed dependencies</a><br />
 ┌──[05-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/ad2f131e1600feb6ba6129789596aa0cc4f28a0a">moved venv/ to .venv/ and lowered python version requirement</a><br />
 ┌──[05-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
