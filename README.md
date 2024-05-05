@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[30-04-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d62bc43e245de2ee355f54c881bf506fb1c75cca">Fixed store and reactiveness when toggling user settings</a><br />
 ┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
 └───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/931f1bd937e584fd35b562b973d50027b2348487">Reverted ignoring of README.md</a><br />
 ┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
