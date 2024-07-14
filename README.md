@@ -41,13 +41,4 @@
 └───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/9799369665a8f200041ea933fe8755237e55f213">Vercel config</a><br />
 ┌──[30-04-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d62bc43e245de2ee355f54c881bf506fb1c75cca">Fixed store and reactiveness when toggling user settings</a><br />
-┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/931f1bd937e584fd35b562b973d50027b2348487">Reverted ignoring of README.md</a><br />
-┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/cdd05024a6bb62162955a24f3c04dd9f03b6c45a">put README.md in .gitignore to avoid conflicts</a><br />
-┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c2c04433efdec5bca82672d15d10094ab6d1f81a">Updated GitHub Actions versions</a>
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/993c8d7a766813a0d7e65a31b0d5115ac7c17f29">Merge branch 'master' of github.com:Ex-iT/Ex-iT</a><br />
-┌──[07-04-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/1e07b00122126f9478d33aa8d19b8d75cbc5a847">Added TODO notes, using bun now and fixed dependencies</a><br />
 </pre>
