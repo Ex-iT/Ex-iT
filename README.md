@@ -39,6 +39,4 @@
 └───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/8f8d5f82f84e0e49d1d7a9d8390bcd474eb150df">Added manifest and favicon as static assets</a><br />
 ┌──[28-05-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
 └───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/9799369665a8f200041ea933fe8755237e55f213">Vercel config</a><br />
-┌──[30-04-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d62bc43e245de2ee355f54c881bf506fb1c75cca">Fixed store and reactiveness when toggling user settings</a><br />
 </pre>
