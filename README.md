@@ -33,10 +33,4 @@
 <h2>Recent activity</h2>
 
 <pre>
-┌──[28-05-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
-└───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/99f1f3f4fe6409856147c8b282943f4d73db0266">Made font-size responsive</a><br />
-┌──[28-05-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
-└───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/8f8d5f82f84e0e49d1d7a9d8390bcd474eb150df">Added manifest and favicon as static assets</a><br />
-┌──[28-05-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
-└───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/9799369665a8f200041ea933fe8755237e55f213">Vercel config</a><br />
 </pre>
