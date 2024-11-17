@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[15-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/bc53f08a4a61d4e9740c26067d8b9b3d3c1fc83c">Create Background component and added a11y to SVG buttons</a><br />
 ┌──[11-10-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
 └───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/204e71dcaf67243430d5abf18243cc360d67bbeb">Added meta description</a><br />
 </pre>
