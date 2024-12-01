@@ -33,6 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/e213833824026bc376c2efc1abf1e421410d2b80">changed github workflow to yarn</a><br />
+┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/26c86881aa0978714c51b9c1c7676b4958ad0858">fixed typescript and vue-tsc version and github workflow</a><br />
+┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/caf4087b9c42ad76691184230dab80214421814f">updated packages, linting rules and fixed linting issues</a><br />
+┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d1038939855b6c3eafc06fbbb6cc13154bdf3569">Added icon components, added theme toggle and popover menu</a><br />
+┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
+└───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/b7ed4f266714379275135b823d3feddb65617d07">Added favicon link to the head</a><br />
 ┌──[22-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/e95cb94d6ce74bdd844a237095296c160fab3571">Updated README</a><br />
 ┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
@@ -59,8 +69,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/2a0cf9da290cc4bc11f37ac92fa61d856809f5ca">Updated Node version for workflow</a><br />
 ┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/314e6e49a5598a27f7b3b8e50314751890ef0a09">Added dep node-fetch-native</a><br />
-┌──[15-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/bc53f08a4a61d4e9740c26067d8b9b3d3c1fc83c">Create Background component and added a11y to SVG buttons</a><br />
-┌──[11-10-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
-└───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/204e71dcaf67243430d5abf18243cc360d67bbeb">Added meta description</a><br />
 </pre>
