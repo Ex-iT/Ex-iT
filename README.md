@@ -33,40 +33,34 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/7b23778db771b55123a2bc46b69a1325f555e9aa">Refactored ToggleButtons and added left/right hand toggle</a><br />
+┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/b59354dd3deff2830de21d66a64a43b0852449f7">Update NOTES</a><br />
+┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/6e6259077c6d1e415fa7e82368e11ab24a579079">Updated localhost link in README</a><br />
+┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4a6263a0b75bc73452790d62b8adb377a1b051e3">Updated README</a><br />
+┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/727b4e452dc41b1d3b75fb71244eb3b2ee049de7">Added nuxt-security module</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/2d2c96a652f86522784a1eda7c0e014fbe6cfcbb">Added scroll shadows on small screens for the Window component</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4a7b4f0d4ba9454f16682add6e9f76d01163a53d">Ellipsis of now playing title increased to 2 lines</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/69230638bc5f0e7f67048efe69f5dc06e2cb3364">Fixed padding pop over menu for small screens</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d432b2b59ecf9cd23623dd1d231cae372bb9970d">Removed inappropriate aria role</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/03abb608a80f2e82628f50b0319fe7f9defaa9eb">Removed specific Vercel config</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/57fac29475f5117faf14da72efe679ae735d173f">removed Vercel builder options</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/13eed73b9afd60f4bb3f6fb0c89a46809e5f7d42">Explicitly set vercel to use pnpm</a><br />
+┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/447dafc5dee028d7b79e593be2007796cbe72939">Fixed dependencies</a><br />
 ┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/e213833824026bc376c2efc1abf1e421410d2b80">changed github workflow to yarn</a><br />
 ┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/26c86881aa0978714c51b9c1c7676b4958ad0858">fixed typescript and vue-tsc version and github workflow</a><br />
-┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/caf4087b9c42ad76691184230dab80214421814f">updated packages, linting rules and fixed linting issues</a><br />
-┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d1038939855b6c3eafc06fbbb6cc13154bdf3569">Added icon components, added theme toggle and popover menu</a><br />
-┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/save-o-clock-v2">save-o-clock-v2</a>]
-└───■ <a href="https://github.com/Ex-iT/save-o-clock-v2/commit/b7ed4f266714379275135b823d3feddb65617d07">Added favicon link to the head</a><br />
-┌──[22-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/e95cb94d6ce74bdd844a237095296c160fab3571">Updated README</a><br />
-┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a24d552327a56a435c57e9e4c577090c385ad217">Cleanup and upgrade packages (#9)
-
-* Cleanup and upgrade packages
-
-* Added dep node-fetch-native
-
-* Updated Node version for workflow
-
-* Removed cache update workflow
-
-* Fixed linting issues
-
-* Update workflow actions/cache</a><br />
-┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/c017ee018fc7169b9d29f3610b9b17e410b0dbbb">Update workflow actions/cache</a><br />
-┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/7102b87e97e7326ed14de894b28d2f832893e68b">Fixed linting issues</a><br />
-┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/67f3a3c9f3b9c445ac7be02ffcbec021edd6d1d7">Removed cache update workflow</a><br />
-┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/2a0cf9da290cc4bc11f37ac92fa61d856809f5ca">Updated Node version for workflow</a><br />
-┌──[20-11-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/314e6e49a5598a27f7b3b8e50314751890ef0a09">Added dep node-fetch-native</a><br />
 </pre>
