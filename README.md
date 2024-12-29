@@ -33,6 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/e8e0eb4a26547f573ea05ef97e3e7aaa580326ff">Updated Python version</a><br />
+┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/edb0776d1d3940a420eba80c2fcaef8540cf559d">Poor mans cache bust</a><br />
+┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/cd3c104d9a94afcacf9cded9b21ada97ecd3c53b">Fix prettier linting issue</a><br />
+┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0518ccac56c9ef34ff9b6237e58862f263d924cb">Updated with new domain</a><br />
+┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/6149e9393ff5623d2dfbba4a49e9a209f9bdab82">Update links to ex-it.nl</a><br />
 ┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/7b23778db771b55123a2bc46b69a1325f555e9aa">Refactored ToggleButtons and added left/right hand toggle</a><br />
 ┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
@@ -51,16 +61,4 @@
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/69230638bc5f0e7f67048efe69f5dc06e2cb3364">Fixed padding pop over menu for small screens</a><br />
 ┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d432b2b59ecf9cd23623dd1d231cae372bb9970d">Removed inappropriate aria role</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/03abb608a80f2e82628f50b0319fe7f9defaa9eb">Removed specific Vercel config</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/57fac29475f5117faf14da72efe679ae735d173f">removed Vercel builder options</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/13eed73b9afd60f4bb3f6fb0c89a46809e5f7d42">Explicitly set vercel to use pnpm</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/447dafc5dee028d7b79e593be2007796cbe72939">Fixed dependencies</a><br />
-┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/e213833824026bc376c2efc1abf1e421410d2b80">changed github workflow to yarn</a><br />
-┌──[29-11-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/26c86881aa0978714c51b9c1c7676b4958ad0858">fixed typescript and vue-tsc version and github workflow</a><br />
 </pre>
