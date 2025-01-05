@@ -59,6 +59,4 @@
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4a7b4f0d4ba9454f16682add6e9f76d01163a53d">Ellipsis of now playing title increased to 2 lines</a><br />
 ┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/69230638bc5f0e7f67048efe69f5dc06e2cb3364">Fixed padding pop over menu for small screens</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/d432b2b59ecf9cd23623dd1d231cae372bb9970d">Removed inappropriate aria role</a><br />
 </pre>
