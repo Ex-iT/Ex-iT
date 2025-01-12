@@ -33,30 +33,31 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/726b9a59f413113fa84f488a80d92ef37272e517">Added Github CI workflow</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/6e1a4af6121c9172ba56f87313fa6247669a9507">Improved selection color</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/69be12f79991ffc90f51efa535afb1c05977b82c">Added active style for navigation items</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/27f0a947829f090174d6a894064580de56473075">Updated FileListing component</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/f1babc34c5c4d319636de9e31eaeda646b7d4098">Added fetch for file listing from repo</a>
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/10828c698dcf15ac778ed8e034232ac9873c30db">Add fetchFileList util</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/1722e253164ba27300a6f411a6281cecb2367482">Moved example content</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/bfc9b743868221c6841d685709e420841e0a7590">Create example.txt</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/9354d4a3bd321771158de72ca83028da90545f61">content example script</a><br />
+┌──[10-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/3d6ca92a999119f6ac5821ccc5eb567ac72325fb">Example content file</a><br />
+┌──[06-01-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/528c51d460e3478a4204a5dc639ad60a76a98ffa">Refactored pagination, added tags and filters and initial fetching of file list from github</a><br />
 ┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
 └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/e8e0eb4a26547f573ea05ef97e3e7aaa580326ff">Updated Python version</a><br />
 ┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
 └───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/edb0776d1d3940a420eba80c2fcaef8540cf559d">Poor mans cache bust</a><br />
 ┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/cd3c104d9a94afcacf9cded9b21ada97ecd3c53b">Fix prettier linting issue</a><br />
-┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/0518ccac56c9ef34ff9b6237e58862f263d924cb">Updated with new domain</a><br />
-┌──[28-12-2024]─[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
-└───■ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/6149e9393ff5623d2dfbba4a49e9a209f9bdab82">Update links to ex-it.nl</a><br />
-┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/7b23778db771b55123a2bc46b69a1325f555e9aa">Refactored ToggleButtons and added left/right hand toggle</a><br />
-┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/b59354dd3deff2830de21d66a64a43b0852449f7">Update NOTES</a><br />
-┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/6e6259077c6d1e415fa7e82368e11ab24a579079">Updated localhost link in README</a><br />
-┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4a6263a0b75bc73452790d62b8adb377a1b051e3">Updated README</a><br />
-┌──[18-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/727b4e452dc41b1d3b75fb71244eb3b2ee049de7">Added nuxt-security module</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/2d2c96a652f86522784a1eda7c0e014fbe6cfcbb">Added scroll shadows on small screens for the Window component</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4a7b4f0d4ba9454f16682add6e9f76d01163a53d">Ellipsis of now playing title increased to 2 lines</a><br />
-┌──[17-12-2024]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/69230638bc5f0e7f67048efe69f5dc06e2cb3364">Fixed padding pop over menu for small screens</a><br />
 </pre>
