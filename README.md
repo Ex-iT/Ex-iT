@@ -33,6 +33,27 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/8dbda1ef7e731ae591b2c9b0edd16ba39cdcd2cd">Removed unused imports</a><br />
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/7293f5da9680b820b92b893b38ea68c882cea6ce">Improved Drawer component</a><br />
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/559029d9798d2be0a5cf08f1fee395eb79a058c8">Added more THM content</a><br />
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/2d4f3b798176f06061e6082e82d02c3a52198aa0">Improved responsive behavior</a><br />
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/de55a1567d00872182e97c8f40a1bf537ef578a5">Remove lookup content binary file</a><br />
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/4036972922c38259bc96dd25f067a8ca489e28bc">Empty tags list doesn't show the tags heading</a>
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/204ee066c4ca2d1a60fb47d838753943049a1ffe">Added more THM content</a><br />
+┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/c0f060e1e7ea8a7938f37efa2756f6fee4f8dc7a">Added more THM content</a><br />
+┌──[11-03-2025]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/9d7d5cef77f00444e3b86e8a2498c35a2da15d44">Updated pipfile lock</a><br />
+┌──[11-03-2025]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c7014e09ee579882242d0f5f488300ec0079d84b">Updated requests package</a><br />
+┌──[11-03-2025]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/3118f0fffad3a78c745eb1b9c20ed1a6e450f6b1">Bumped python version</a><br />
 ┌──[08-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/7d7878d987122a967534a582b9bb20c7d4dc88f8">Small title tweak for small screens</a><br />
 ┌──[08-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
@@ -43,25 +64,4 @@
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/b110fefedb4b30ef0c4965f3c91d4287f1f3725b">Set node version in github CI workflow</a><br />
 ┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/1f61c381d8b721d0e15f23db98043c861ba70259">Removed versions from ci</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/caab970356f2cee455e88c4a4f28c2449b180e17">Update node and pnpm version for Git workflow</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/bf9f33aa16d9f69c2a180c35701cca8493d55a6a">Added more THM content</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/748748751a108e2c001329812ffa1e82dd926bd5">Code block should break whenever possible</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/9d230e983704445428e6315604f1fa3fab61d868">Added separator between note head and content</a>
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/acbb37a07b7637fbbdbfb69d5c0c474523ee84b5">Added HTB Atom and Cicada, THM agent sudo and agent T</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/fa2d07de47988b478e09b2059f0865e62ab19e46">Added accessibility text to file explorer mobile drawer</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/40307c8882e154af70d2b56dbd4e5868d41a1663">Improved contrast for secondary color</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/d662a67bd41aba51829ef04b1ae02e53d6e7bf8d">Add Sharp as dependency for image optimization</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/7cc7f70bf307b75100d22d6406c052e03a418c05">Separated meta share logo and avatar</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/d8eda079b65cf57f560c633837843206f8c80e61">Fixed default meta description</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/f2f9a0ed00869a6607d914ec037e34dd873ca29c">Improved images handling, added tagline and accessibility for search button</a><br />
 </pre>
