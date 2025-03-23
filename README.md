@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[16-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/689d30634d49cde24e8338ec9b873d1c7c0865e2">Added Shiki transformer to properly display the language on code blocks</a><br />
+┌──[15-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/94348b81cfb11b374d5d8c032bb6f4829e9eb0ac">Improved responsive behavior for note content</a><br />
 ┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/8dbda1ef7e731ae591b2c9b0edd16ba39cdcd2cd">Removed unused imports</a><br />
 ┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
@@ -60,8 +64,4 @@
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/9221d1bf5e82c225d5e563958bb357bb1e1828f5">Styling tweaks for small screens</a><br />
 ┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/fbd89f9bb9c2d0c24dc11c0e49ea607c7ad2a757">Make sure the file listing doesn't grow with long names and no spaces</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/b110fefedb4b30ef0c4965f3c91d4287f1f3725b">Set node version in github CI workflow</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/1f61c381d8b721d0e15f23db98043c861ba70259">Removed versions from ci</a><br />
 </pre>
