@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[28-03-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/1af64f8e1bce3844d281c7cd33912bb1fa31d8c1">Update assets version</a><br />
 ┌──[16-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/689d30634d49cde24e8338ec9b873d1c7c0865e2">Added Shiki transformer to properly display the language on code blocks</a><br />
 ┌──[15-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
@@ -62,6 +64,4 @@
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/7d7878d987122a967534a582b9bb20c7d4dc88f8">Small title tweak for small screens</a><br />
 ┌──[08-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/9221d1bf5e82c225d5e563958bb357bb1e1828f5">Styling tweaks for small screens</a><br />
-┌──[07-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/fbd89f9bb9c2d0c24dc11c0e49ea607c7ad2a757">Make sure the file listing doesn't grow with long names and no spaces</a><br />
 </pre>
