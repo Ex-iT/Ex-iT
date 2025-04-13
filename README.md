@@ -33,6 +33,14 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/3bcedc9d28612f6e41089b588b89505b9af51013">Added more THM notes</a><br />
+┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/025cdce029f92f416fc375dfe4f62ccb406b43e2">Set meta title for pagefind</a><br />
+┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/a000ccb8ead6bf1c05783e827a7da64d2015d3a9">Update pagefind package and set pagefind-body attribute</a><br />
+┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
+└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/1e36f63184d9fb7882822b9bb2fb9890b7dd030a">Improved styling of search results</a><br />
 ┌──[28-03-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/1af64f8e1bce3844d281c7cd33912bb1fa31d8c1">Update assets version</a><br />
 ┌──[16-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
@@ -54,14 +62,4 @@
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/204ee066c4ca2d1a60fb47d838753943049a1ffe">Added more THM content</a><br />
 ┌──[14-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/c0f060e1e7ea8a7938f37efa2756f6fee4f8dc7a">Added more THM content</a><br />
-┌──[11-03-2025]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/9d7d5cef77f00444e3b86e8a2498c35a2da15d44">Updated pipfile lock</a><br />
-┌──[11-03-2025]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/c7014e09ee579882242d0f5f488300ec0079d84b">Updated requests package</a><br />
-┌──[11-03-2025]─[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-└───■ <a href="https://github.com/Ex-iT/Ex-iT/commit/3118f0fffad3a78c745eb1b9c20ed1a6e450f6b1">Bumped python version</a><br />
-┌──[08-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/7d7878d987122a967534a582b9bb20c7d4dc88f8">Small title tweak for small screens</a><br />
-┌──[08-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/9221d1bf5e82c225d5e563958bb357bb1e1828f5">Styling tweaks for small screens</a><br />
 </pre>
