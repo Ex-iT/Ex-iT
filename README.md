@@ -43,8 +43,4 @@
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/1e36f63184d9fb7882822b9bb2fb9890b7dd030a">Improved styling of search results</a><br />
 ┌──[28-03-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/1af64f8e1bce3844d281c7cd33912bb1fa31d8c1">Update assets version</a><br />
-┌──[16-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/689d30634d49cde24e8338ec9b873d1c7c0865e2">Added Shiki transformer to properly display the language on code blocks</a><br />
-┌──[15-03-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/94348b81cfb11b374d5d8c032bb6f4829e9eb0ac">Improved responsive behavior for note content</a><br />
 </pre>
