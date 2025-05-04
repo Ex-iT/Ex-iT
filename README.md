@@ -41,6 +41,4 @@
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/a000ccb8ead6bf1c05783e827a7da64d2015d3a9">Update pagefind package and set pagefind-body attribute</a><br />
 ┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/1e36f63184d9fb7882822b9bb2fb9890b7dd030a">Improved styling of search results</a><br />
-┌──[28-03-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/1af64f8e1bce3844d281c7cd33912bb1fa31d8c1">Update assets version</a><br />
 </pre>
