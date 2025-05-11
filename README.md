@@ -33,6 +33,12 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[09-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/b8e39d073cde658f8783e59c4cfe9894db854707">Added github CI and Vercel badges</a><br />
+┌──[09-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/c75302119f121529284deb16c2f85eb1d749efc2">Updated packages, fixed linting issues and updated nuxt compat date</a><br />
+┌──[09-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/cf956da0e5e3925c49b13d05e350e5aeb75b10fd">Small a11y improvement</a><br />
 ┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/3bcedc9d28612f6e41089b588b89505b9af51013">Added more THM notes</a><br />
 ┌──[12-04-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
