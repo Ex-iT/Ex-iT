@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[23-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/f0e79a36093c85c18da7371a9fc15ec862b9f5f3">Updated deps and fetch track history from Shoutcast</a><br />
+┌──[23-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/22fe3bafbab64d4147d2792efeda3a4d147bb6e6">Q&D fix for missing playlist data</a><br />
 ┌──[16-05-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/cf8fd330ca39ad97fe18d91aa0a0eab509d7c255">Update README</a><br />
 ┌──[16-05-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
