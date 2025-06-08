@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[06-06-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4335067d293f15e8d35214390679b295ee33e4d8">Updated day time background image</a><br />
+┌──[05-06-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/3329b1fa68ed90c6d3910eacba5f3324689d6622">Don't show coming soon when there is no data, updated background images and updated deps</a><br />
 ┌──[23-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/f0e79a36093c85c18da7371a9fc15ec862b9f5f3">Updated deps and fetch track history from Shoutcast</a><br />
 ┌──[23-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
