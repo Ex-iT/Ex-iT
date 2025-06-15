@@ -47,14 +47,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3af53a93abb28a38d721fd4094f9ee68285ab84f">Added API server</a><br />
 ┌──[16-05-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/672fb9fa03e1f7e466f8f894ebcab68bf6c1ee36">Added development branch to CI workflow</a><br />
-┌──[13-05-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/6b02ae127fee427f4ee166289e789fcd31aa674e">Updated packages</a><br />
-┌──[13-05-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/d04a641b4fb7c95687e8c5cf65eb7d75bf586e36">Added xRDP notes</a><br />
-┌──[09-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/b8e39d073cde658f8783e59c4cfe9894db854707">Added github CI and Vercel badges</a><br />
-┌──[09-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/c75302119f121529284deb16c2f85eb1d749efc2">Updated packages, fixed linting issues and updated nuxt compat date</a><br />
-┌──[09-05-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/cf956da0e5e3925c49b13d05e350e5aeb75b10fd">Small a11y improvement</a><br />
 </pre>
