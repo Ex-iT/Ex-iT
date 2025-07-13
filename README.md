@@ -33,6 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[12-07-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/3c43a6e28fd17ae48de931ef58971cb927455b8e">Removed not owned background images and credits</a><br />
+┌──[12-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/e0feb4e9428e5dc25301a965dc2914b1c8bfcc26">Initial structure and linting</a><br />
+┌──[12-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/14e39d8fb6bfb8cdb3da93b9f0017767ee02951a">Removed pnpm version for github workflow</a><br />
+┌──[12-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/621e0468928d1474cdc08f676dbed426d9f2afbd">updated pnpm version for github workflow</a><br />
+┌──[12-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/18742f98e2e47da0655d21ac5ac16ec641aad9a6">fresh initial setup</a><br />
 ┌──[27-06-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
 └───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/ad8fab9606f84627d6ff0fa0c2bb3d0a75964169">Add security headers to Vercel config</a><br />
 ┌──[27-06-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
@@ -47,8 +57,4 @@
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/40b57096dcdc69582af709a208e8477bcf1aa56c">update dependencies</a><br />
 ┌──[21-06-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
 └───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/9044e4fa8aee2f38b4ddcc328094a020cfe61039">Improved menu button visibility on light backgrounds</a><br />
-┌──[06-06-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/4335067d293f15e8d35214390679b295ee33e4d8">Updated day time background image</a><br />
-┌──[05-06-2025]─[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
-└───■ <a href="https://github.com/Ex-iT/CDR-Player/commit/3329b1fa68ed90c6d3910eacba5f3324689d6622">Don't show coming soon when there is no data, updated background images and updated deps</a><br />
 </pre>
