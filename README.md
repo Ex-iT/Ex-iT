@@ -53,8 +53,4 @@
 └───■ <a href="https://github.com/Ex-iT/P2K2/commit/12e892cb749b096a9ba12635d599c0b10ac293cd">added favicon and manifest images</a><br />
 ┌──[18-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
 └───■ <a href="https://github.com/Ex-iT/P2K2/commit/6622e606581caacf5441659e5fcd95f5bdf6fa32">Using only one icon set, updated Nuxt to v4 and refactored in utils / composables</a><br />
-┌──[13-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/a3d0c18375747d29308ba87766bf682f0282aa78">Ignore Tailwind at-rules</a><br />
-┌──[13-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/079386e1fa139820b4fb95aeccd73c2371d3961e">Quick setup with timeline and websocket connection</a><br />
 </pre>
