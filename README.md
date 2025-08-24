@@ -45,12 +45,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/70025360e8ce1109ffce73279b48e2a73c2a862e">Update readme</a><br />
 ┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/08c39d1d9fa19b078f8ba416fda1bd2ed2b6db71">Update readme</a><br />
-┌──[18-07-2025]─[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]
-└───■ <a href="https://github.com/Ex-iT/ex-it.nl/commit/e5cf7e7b8760a6c2f60553b92bdfc2101ecef139">Added P2K2 project and updated deps</a><br />
-┌──[18-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/81a115b3cbff68b513b47f9b0c1199315358a727">added dark variant of favicon</a><br />
-┌──[18-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/12e892cb749b096a9ba12635d599c0b10ac293cd">added favicon and manifest images</a><br />
-┌──[18-07-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/6622e606581caacf5441659e5fcd95f5bdf6fa32">Using only one icon set, updated Nuxt to v4 and refactored in utils / composables</a><br />
 </pre>
