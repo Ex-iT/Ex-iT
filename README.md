@@ -33,6 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/7f5d60f3fd2fc831b14929ac549867659b428598">Fixed scroll when menu is open</a><br />
+┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/805c3c5a3332fd393e3483471bd03ac6b75aa066">All regions set to initial RAD value</a><br />
+┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/6a1f1f3927377d8a1cb2bc13815f0e6d6249b1eb">Updated RAD reset</a><br />
+┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/187e39a4d8f238a1e43452a4b7a86474dea24025">Fixed region switching 'caching'</a><br />
+┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/3716e08eb94694e1676e8eeea1e359e6bc08ab45">Added region selection</a><br />
 ┌──[30-08-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/ea9d71c4ab95ad7cc2b7a97857d7ef08cbfd60cb">Initial migration setup and packages update</a>
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/08c39d1d9fa19b078f8ba416fda1bd2ed2b6db71">Update readme</a>
@@ -57,16 +67,4 @@
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/d46c780bf61c35e2bd8af8c6e0682126ae4c0255">Migrated components to composition api</a><br />
 ┌──[29-08-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
 └───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/061ba0b49d26bee4f7d4d7d10742cc1175668690">Updated packages and fetch data lazily</a><br />
-┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/c21de008eb1f601ebb34654662b028a87587fb50">Enable linting workflow for migration branch</a><br />
-┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/bd097d0aaa1126c5286fbd6881a1fa0fc9338988">Fixed linting issues</a><br />
-┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/61fa94ec9afa316a27edaef863b85ef0f933d083">Removed nuxt-svgo and lazy load icons</a><br />
-┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/64ce0a27b6ba805f51063e507187610de4da18d7">Working first version of migration</a><br />
-┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/70025360e8ce1109ffce73279b48e2a73c2a862e">Update readme</a><br />
-┌──[31-07-2025]─[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-└───■ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/08c39d1d9fa19b078f8ba416fda1bd2ed2b6db71">Update readme</a><br />
 </pre>
