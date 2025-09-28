@@ -33,6 +33,8 @@
 <h2>Recent activity</h2>
 
 <pre>
+┌──[26-09-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+└───■ <a href="https://github.com/Ex-iT/P2K2/commit/589bf5368d9a6823616a021ab93a88e86aec79e3">Updated packages and removed lucide icon in favor of mdi icon</a><br />
 ┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
 └───■ <a href="https://github.com/Ex-iT/P2K2/commit/7f5d60f3fd2fc831b14929ac549867659b428598">Fixed scroll when menu is open</a><br />
 ┌──[31-08-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
