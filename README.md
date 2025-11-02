@@ -33,6 +33,4 @@
 <h2>Recent activity</h2>
 
 <pre>
-┌──[26-09-2025]─[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
-└───■ <a href="https://github.com/Ex-iT/P2K2/commit/589bf5368d9a6823616a021ab93a88e86aec79e3">Updated packages and removed lucide icon in favor of mdi icon</a><br />
 </pre>
