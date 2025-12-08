@@ -83,7 +83,7 @@ if __name__ == "__main__":
 
     if len(json_data) == 0:
         content += f"""
-───[ No public recent activity 🤔"""
+No public recent activity 🤔"""
 
     for event in (event for event in json_data if event["type"] == "PushEvent"):
         content += pushMessage(event)
