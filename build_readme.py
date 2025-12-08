@@ -8,7 +8,10 @@ file_path = Path(__file__).parent.resolve() / "README.md"
 user = "Ex-iT"
 main_url = "https://github.com"
 api_url = "https://api.github.com"
-headers = {"Accept": "application/vnd.github.v3+json"}
+headers = {
+    "Accept": "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28",
+}
 params = {"per_page": "15"}
 content = """<table>
     <tr>
@@ -75,7 +78,12 @@ if __name__ == "__main__":
     response = requests.get(
         f"{api_url}/users/{user}/events/public", headers=headers, params=params
     )
+    print(response.text)
     json_data = json.loads(response.text)
+
+    if len(json_data) == 0:
+        content += f"""
+───[ No public recent activity 🤔"""
 
     for event in (event for event in json_data if event["type"] == "PushEvent"):
         content += pushMessage(event)

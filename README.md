@@ -33,4 +33,5 @@
 <h2>Recent activity</h2>
 
 <pre>
+───[ No public recent activity 🤔
 </pre>
