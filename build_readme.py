@@ -8,10 +8,11 @@ file_path = Path(__file__).parent.resolve() / "README.md"
 user = "Ex-iT"
 main_url = "https://github.com"
 api_url = "https://api.github.com"
-headers = {
-    "Accept": "application/vnd.github+json",
-    "X-GitHub-Api-Version": "2022-11-28",
-}
+# headers = {
+#     "Accept": "application/vnd.github+json",
+#     # "X-GitHub-Api-Version": "2022-11-28",
+# }
+headers = {"Accept": "application/vnd.github.v3+json"}
 params = {"per_page": "15"}
 content = """<table>
     <tr>
@@ -56,37 +57,25 @@ def pushMessage(event):
     repo_name = event["repo"]["name"]
     repo_label = repo_name.replace(f"{user}/", "")
     repo_url = f"{main_url}/{repo_name}"
+    commit_url = f"""{main_url}/{repo_name}/commit/{event['payload']['head']}"""
 
-    commit_texts = f"""
-┌──[{formatted_date}]─[<a href="{repo_url}">{repo_label}</a>]"""
-
-    for commit in event["payload"]["commits"]:
-        commit_texts += commitMessage(commit, repo_name)
-
-    return commit_texts + "<br />"
-
-
-def commitMessage(commit, repo_name):
-    commit_url = f"""{main_url}/{repo_name}/commit/{commit['sha']}"""
-    commit_message = commit["message"]
-
-    return f"""
-└───■ <a href="{commit_url}">{commit_message}</a>"""
+    payload_text = f"""
+[+] [{formatted_date}]-[<a href="{repo_url}">{repo_label}</a>]➜ <a href="{commit_url}">New commit</a>"""
+    return payload_text
 
 
 if __name__ == "__main__":
     response = requests.get(
         f"{api_url}/users/{user}/events/public", headers=headers, params=params
     )
-    print(response.text)
     json_data = json.loads(response.text)
 
     if len(json_data) == 0:
         content += f"""
-No public recent activity 🤔"""
-
-    for event in (event for event in json_data if event["type"] == "PushEvent"):
-        content += pushMessage(event)
+[-] [No public recent activity]"""
+    else:
+        for event in (event for event in json_data if event["type"] == "PushEvent"):
+            content += pushMessage(event)
 
     content += """
 </pre>"""

@@ -33,5 +33,6 @@
 <h2>Recent activity</h2>
 
 <pre>
-───[ No public recent activity 🤔
+[+] [08-12-2025]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/281b6c1d4bcd2fd4f3d83e277f85ecb0ccdd2d26">New commit</a>
+[+] [08-12-2025]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/d8daa44dcee6bc25e90506114956ccd2f7ff744d">New commit</a>
 </pre>
