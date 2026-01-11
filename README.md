@@ -34,7 +34,4 @@
 
 <pre>
 [+] [12-12-2025]-[<a href="https://github.com/Ex-iT/jsdijkstra.nl">jsdijkstra.nl</a>]➜ <a href="https://github.com/Ex-iT/jsdijkstra.nl/commit/8bbc4926ddaf6088c661f982c6231297c08bc397">New commit</a>
-[+] [08-12-2025]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/75c0c0793b16c1e503c882d5438aee2f0589d95b">New commit</a>
-[+] [08-12-2025]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/281b6c1d4bcd2fd4f3d83e277f85ecb0ccdd2d26">New commit</a>
-[+] [08-12-2025]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/d8daa44dcee6bc25e90506114956ccd2f7ff744d">New commit</a>
 </pre>
