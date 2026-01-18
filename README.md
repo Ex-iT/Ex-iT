@@ -33,5 +33,6 @@
 <h2>Recent activity</h2>
 
 <pre>
-[+] [12-12-2025]-[<a href="https://github.com/Ex-iT/jsdijkstra.nl">jsdijkstra.nl</a>]➜ <a href="https://github.com/Ex-iT/jsdijkstra.nl/commit/8bbc4926ddaf6088c661f982c6231297c08bc397">New commit</a>
+[+] [16-01-2026]-[<a href="https://github.com/Ex-iT/jsdijkstra.nl">jsdijkstra.nl</a>]➜ <a href="https://github.com/Ex-iT/jsdijkstra.nl/commit/258a485db2dd00439ea83517772a3a4c4ab34d5a">New commit</a>
+[+] [16-01-2026]-[<a href="https://github.com/Ex-iT/jsdijkstra.nl">jsdijkstra.nl</a>]➜ <a href="https://github.com/Ex-iT/jsdijkstra.nl/commit/371fbbb17600b7049fcfdbedcbf4fbc9b83f7ddf">New commit</a>
 </pre>
