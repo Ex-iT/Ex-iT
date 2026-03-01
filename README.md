@@ -33,5 +33,5 @@
 <h2>Recent activity</h2>
 
 <pre>
-[-] [No public recent activity]
+[+] [28-02-2026]-[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]➜ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/c50af37393b43551cb43e93836d4b0f91533416c">New commit</a>
 </pre>
