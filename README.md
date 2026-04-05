@@ -33,19 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
-[+] [27-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/6f51f3d74e812a7a8a219cc63005c01d990f743c">New commit</a>
-[+] [27-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/cf973bda0af741528decc7652e93f96e96866580">New commit</a>
-[+] [27-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/2221024ef2da1d510b4a623392fb796757e2879c">New commit</a>
-[+] [27-03-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/da6f7038050d0f0aea0c5a899d94b16487309566">New commit</a>
-[+] [26-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/cd09e6e229a50cfd42825f3c83dbda87afeaba8d">New commit</a>
-[+] [26-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/d83d47d1db94360a464a14070ecb0a41d9fd29e1">New commit</a>
-[+] [26-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/55c8f107e5499c3053d06192e228180f047cf2e3">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/e68a62c08656da28994a5d57457dbcf1f2b15442">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/772d58d4fe71e6b3005a094c53ca48076546f33b">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/4c63dae683d6a609a3a389d6f9999df2e3c871f3">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/0ed4746e02e1ffbb50e22904affb1466e8dc9f60">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/3468ce0ebff9c759c092c187b96d9f5e8fa1ded6">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/2c7a5f7378189aa90c12bf3000e5bdc90d71dcf6">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/76cbb78340b7f868c4f83674f74ac5189503b83f">New commit</a>
-[+] [15-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/71767ebd512b87c96e7e18e9d241dc4583a6aef9">New commit</a>
+[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/ff0939676c9f0fbe9a7323dec8a5c0c055753323">New commit</a>
+[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/1095f41556de58cd429e0d30bed38a8cb84d4433">New commit</a>
+[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/49656122299df900d5e761b0bd338a7f39e66aa7">New commit</a>
+[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/78b252a3eb955f3599ffe9d97e2a46bc3be3aeed">New commit</a>
+[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/d7b26aa51b745d6b0b422836d4f1b2f95fd13c02">New commit</a>
+[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/df2c2e92a5ce491a98217f3902fe28d7f46f0430">New commit</a>
+[+] [31-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/f45644b6095690337304536591b19cecd05133e5">New commit</a>
+[+] [31-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/e90ff6ba2aab2e40c53162dba0e3f5843970eb98">New commit</a>
+[+] [30-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/99ac3a680e04c46e1a1aca6bc7cf068baa43b518">New commit</a>
+[+] [30-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/9372bdd30dd8664325b5efa35fb5fccbaf4188be">New commit</a>
+[+] [30-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/af1b1c86b1b9ad8a56e11771c42691653864e63b">New commit</a>
+[+] [29-03-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/49548e4dd54da5e22790f1575515aa1534d878d3">New commit</a>
 </pre>
