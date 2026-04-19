@@ -33,6 +33,12 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+] [17-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/edc85b9c1f54ac4f8bce6bf918b9fc19b7f8a0b1">New commit</a>
+[+] [17-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/365a00098a5fc70307e8eda96464960777168e40">New commit</a>
+[+] [17-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/f105533dc6859cd7f718e1128ba46282335fab66">New commit</a>
+[+] [12-04-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/f7638d2ceb480e0ab8c07b5bf7b78d63b14acde2">New commit</a>
+[+] [12-04-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/fa11ef538afb5f4fb16653f1e66261f149a4052a">New commit</a>
+[+] [12-04-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/9a5cd42bfc894577caf1290d4704ced6532a3c68">New commit</a>
 [+] [10-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/f9ad0fdd30a4422a4b08380cca2a891cf3485c82">New commit</a>
 [+] [10-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/24d4671d852eb6dea337ddbd8536e6dcea4d705f">New commit</a>
 [+] [10-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/b4842ed2b2d38c0d984cf82e08da9ca8a6748029">New commit</a>
@@ -41,7 +47,4 @@
 [+] [09-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/959b4349a391c5bd9d2c5709a26df2c7cfa93e37">New commit</a>
 [+] [09-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/ceafa8cb240cfeb902c402a1fb5af4fefeb3fded">New commit</a>
 [+] [03-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/ff0939676c9f0fbe9a7323dec8a5c0c055753323">New commit</a>
-[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/1095f41556de58cd429e0d30bed38a8cb84d4433">New commit</a>
-[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/49656122299df900d5e761b0bd338a7f39e66aa7">New commit</a>
-[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/LM-Studio-Chatbot">LM-Studio-Chatbot</a>]➜ <a href="https://github.com/Ex-iT/LM-Studio-Chatbot/commit/78b252a3eb955f3599ffe9d97e2a46bc3be3aeed">New commit</a>
 </pre>
