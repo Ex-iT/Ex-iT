@@ -33,6 +33,9 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+] [23-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/d5aa23cd07fb96f40d11a4630b9013c20838bcc1">New commit</a>
+[+] [21-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/b4b57960bcf1dfe350634e87b0062a4c73eaf9ea">New commit</a>
+[+] [21-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/68191620a285d7caa508f8252b5d4cdbf25a0338">New commit</a>
 [+] [17-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/edc85b9c1f54ac4f8bce6bf918b9fc19b7f8a0b1">New commit</a>
 [+] [17-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/365a00098a5fc70307e8eda96464960777168e40">New commit</a>
 [+] [17-04-2026]-[<a href="https://github.com/Ex-iT/TTS-Chat">TTS-Chat</a>]➜ <a href="https://github.com/Ex-iT/TTS-Chat/commit/f105533dc6859cd7f718e1128ba46282335fab66">New commit</a>
@@ -45,6 +48,4 @@
 [+] [09-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/e49c494ec1fee3c698decf7bea0f53d9da23d3c1">New commit</a>
 [+] [09-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/8eed1e6b1eaa02c38d2fb140f039e4b5be00a5cb">New commit</a>
 [+] [09-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/959b4349a391c5bd9d2c5709a26df2c7cfa93e37">New commit</a>
-[+] [09-04-2026]-[<a href="https://github.com/Ex-iT/save-o-clock">save-o-clock</a>]➜ <a href="https://github.com/Ex-iT/save-o-clock/commit/ceafa8cb240cfeb902c402a1fb5af4fefeb3fded">New commit</a>
-[+] [03-04-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/ff0939676c9f0fbe9a7323dec8a5c0c055753323">New commit</a>
 </pre>
