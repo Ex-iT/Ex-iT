@@ -70,9 +70,11 @@ def pushMessage(event):
     head = event["payload"]["head"]
     commit_url = f"""{main_url}/{repo_name}/commit/{head}"""
     commit_message = get_commit_message(repo_name, head)
+    short_sha = head[:7]
 
     payload_text = f"""
-[+] [{formatted_date}]-[<a href="{repo_url}">{repo_label}</a>]➜ <a href="{commit_url}">{commit_message}</a>"""
+┌ {formatted_date} ─ <a href="{repo_url}">{repo_label}</a>
+└ {short_sha} → <a href="{commit_url}">{commit_message}</a>"""
     return payload_text
 
 
