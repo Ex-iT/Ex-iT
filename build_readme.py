@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
+import os
 from pathlib import Path
 import requests
-import json
 from datetime import datetime
 
 file_path = Path(__file__).parent.resolve() / "README.md"
 user = "Ex-iT"
 main_url = "https://github.com"
 api_url = "https://api.github.com"
-# headers = {
-#     "Accept": "application/vnd.github+json",
-#     # "X-GitHub-Api-Version": "2022-11-28",
-# }
 headers = {"Accept": "application/vnd.github.v3+json"}
+token = os.getenv("GITHUB_TOKEN")
+if token:
+    headers["Authorization"] = f"Bearer {token}"
 params = {"per_page": "15"}
 content = """<table>
     <tr>
@@ -51,16 +50,29 @@ content = """<table>
 <pre>"""
 
 
+def get_commit_message(repo_name, sha):
+    response = requests.get(
+        f"{api_url}/repos/{repo_name}/commits/{sha}",
+        headers=headers
+    )
+    if response.status_code == 200:
+        data = response.json()
+        return data["commit"]["message"].split("\n")[0]
+    return "New commit"
+
+
 def pushMessage(event):
     created_at = datetime.strptime(event["created_at"], "%Y-%m-%dT%H:%M:%SZ")
     formatted_date = created_at.strftime("%d-%m-%Y")
     repo_name = event["repo"]["name"]
     repo_label = repo_name.replace(f"{user}/", "")
     repo_url = f"{main_url}/{repo_name}"
-    commit_url = f"""{main_url}/{repo_name}/commit/{event['payload']['head']}"""
+    head = event["payload"]["head"]
+    commit_url = f"""{main_url}/{repo_name}/commit/{head}"""
+    commit_message = get_commit_message(repo_name, head)
 
     payload_text = f"""
-[+] [{formatted_date}]-[<a href="{repo_url}">{repo_label}</a>]➜ <a href="{commit_url}">New commit</a>"""
+[+] [{formatted_date}]-[<a href="{repo_url}">{repo_label}</a>]➜ <a href="{commit_url}">{commit_message}</a>"""
     return payload_text
 
 
@@ -68,9 +80,9 @@ if __name__ == "__main__":
     response = requests.get(
         f"{api_url}/users/{user}/events/public", headers=headers, params=params
     )
-    json_data = json.loads(response.text)
+    json_data = response.json()
 
-    if len(json_data) == 0:
+    if not isinstance(json_data, list) or len(json_data) == 0:
         content += f"""
 [-] [No public recent activity]"""
     else:
