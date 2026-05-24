@@ -8,10 +8,12 @@ file_path = Path(__file__).parent.resolve() / "README.md"
 user = "Ex-iT"
 main_url = "https://github.com"
 api_url = "https://api.github.com"
-headers = {"Accept": "application/vnd.github.v3+json"}
+session = requests.Session()
+session.headers.update({"Accept": "application/vnd.github.v3+json"})
 token = os.getenv("GITHUB_TOKEN")
 if token:
-    headers["Authorization"] = f"Bearer {token}"
+    session.headers["Authorization"] = f"Bearer {token}"
+timeout = 15
 params = {"per_page": "15"}
 content = """<table>
     <tr>
@@ -51,13 +53,12 @@ content = """<table>
 
 
 def get_commit_message(repo_name, sha):
-    response = requests.get(
+    response = session.get(
         f"{api_url}/repos/{repo_name}/commits/{sha}",
-        headers=headers
+        timeout=timeout
     )
     if response.status_code == 200:
-        data = response.json()
-        return data["commit"]["message"].split("\n")[0]
+        return response.json()["commit"]["message"].split("\n")[0]
     return "New commit"
 
 
@@ -81,8 +82,10 @@ def pushMessage(event):
 
 
 if __name__ == "__main__":
-    response = requests.get(
-        f"{api_url}/users/{user}/events/public", headers=headers, params=params
+    response = session.get(
+        f"{api_url}/users/{user}/events/public",
+        params=params,
+        timeout=timeout
     )
     json_data = response.json()
 
@@ -91,7 +94,7 @@ if __name__ == "__main__":
 [-] No public recent activity"""
     else:
         for event in (event for event in json_data if event["type"] == "PushEvent"):
-            content += pushMessage(event) or ""
+            content += pushMessage(event)
 
     content += """
 </pre>"""
