@@ -26,6 +26,14 @@ jobs:
     - name: Install dependencies
       run: pip install requests
 
+    - name: Generate top languages card
+      uses: stats-organization/github-readme-stats-action@v2
+      with:
+        card: top-langs
+        options: username=Ex-iT&layout=compact&theme=algolia
+        path: images/top-langs.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Update README
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -33,10 +41,9 @@ jobs:
         python build_readme.py
         cat README.md
 
-    - name: Commit and push if README changed
+    - name: Commit and push if anything changed
       run: |
-        git diff
-        git config --global user.email "readme-bot@example.com"
+        git config --global user.email "readme-bot@ex-it.nl"
         git config --global user.name "README-bot"
-        git diff --quiet || (git add README.md && git commit -m "Updated README")
+        git diff --quiet || (git add README.md images/top-langs.svg && git commit -m "Updated README")
         git push

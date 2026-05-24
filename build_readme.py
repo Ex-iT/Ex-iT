@@ -29,7 +29,7 @@ content = """<table>
         </td>
         <td rowspan="2">
             <a href="https://github.com/Ex-iT/">
-                <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-it&layout=compact&theme=algolia" />
+                <img alt="Most Used Languages" src="images/top-langs.svg" />
             </a>
         </td>
     </tr>
