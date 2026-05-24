@@ -34,6 +34,8 @@
 
 <pre>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/2dbb498780a48df5ed7778cd86111ee84ada8e26">chore: remove redundant Pipfile.lock file</a>
+[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/5783a94fd619b62f8fc7b40631f513ad35de51cc">feat: integrate local top languages card generation into build workflow and update commit logic</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/a6ec48c4a49635f55e279b68bac5b9a4ed654c95">refactor: replace individual requests with a persistent session and add timeout handling</a>
@@ -53,6 +55,4 @@
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/bf9e9e595406e4be18fa9ff5596d66c166e1643d">Removed wrong vercel badge</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/54a56edb5026aff5d7e0d5908d3b8e7c9a4d4db1">chore: update GitHub Actions versions and add nuxi prepare step to CI pipeline</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/e0e52174942e3aa948d4bf98aafe875a3cc4805e">chore: migrate from onlyBuiltDependencies to allowBuilds configuration in pnpm-workspace.yaml</a>
 </pre>
