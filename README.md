@@ -12,7 +12,7 @@
         </td>
         <td rowspan="2">
             <a href="https://github.com/Ex-iT/">
-                <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ex-it&layout=compact&theme=algolia" />
+                <img alt="Most Used Languages" src="images/top-langs.svg" />
             </a>
         </td>
     </tr>
@@ -34,6 +34,8 @@
 
 <pre>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/5783a94fd619b62f8fc7b40631f513ad35de51cc">feat: integrate local top languages card generation into build workflow and update commit logic</a>
+[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/a6ec48c4a49635f55e279b68bac5b9a4ed654c95">refactor: replace individual requests with a persistent session and add timeout handling</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/181e6724e6cc9d646889b172b84a3b1fc23bcc6c">refactor: remove pipenv from build workflow and update README link formatting</a>
@@ -53,6 +55,4 @@
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/54a56edb5026aff5d7e0d5908d3b8e7c9a4d4db1">chore: update GitHub Actions versions and add nuxi prepare step to CI pipeline</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/e0e52174942e3aa948d4bf98aafe875a3cc4805e">chore: migrate from onlyBuiltDependencies to allowBuilds configuration in pnpm-workspace.yaml</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/3dbec2f59b9e2b42f9ae3cb3e663ca0fae35e97e">Update CI task</a>
 </pre>
