@@ -34,6 +34,8 @@
 
 <pre>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/a6ec48c4a49635f55e279b68bac5b9a4ed654c95">refactor: replace individual requests with a persistent session and add timeout handling</a>
+[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/181e6724e6cc9d646889b172b84a3b1fc23bcc6c">refactor: remove pipenv from build workflow and update README link formatting</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/8f03b00395d53df19c4fa5aa09b7b0e0dc0bafdf">refactor: update readme commit log format to include short SHA and multi-line layout</a>
@@ -53,6 +55,4 @@
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/e0e52174942e3aa948d4bf98aafe875a3cc4805e">chore: migrate from onlyBuiltDependencies to allowBuilds configuration in pnpm-workspace.yaml</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/3dbec2f59b9e2b42f9ae3cb3e663ca0fae35e97e">Update CI task</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/e5ae5827004e26abd126a0ed151e6666312f5772">Added favicon etc.</a>
 </pre>
