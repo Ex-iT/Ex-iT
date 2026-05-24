@@ -33,16 +33,28 @@
 <h2>Recent activity</h2>
 
 <pre>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/90ddc8651b1e1a51c5bcdd1980fda43941c4ddae">chore: upgrade python_version to 3.12 in Pipfile</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]➜ <a href="https://github.com/Ex-iT/Ex-iT/commit/1e4e7845c69041a0f12883035286652afaa3be89">feat: update requests, add commit message fetching via GitHub API, and configure workflow caching</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>]➜ <a href="https://github.com/Ex-iT/ex-it.nl/commit/42f5f2e40f0eb6b363edf6a431fa860368c12343">Update dependencies, upgrade node to v24/pnpm to v11, and add yt2mp3 project documentation</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]➜ <a href="https://github.com/Ex-iT/yt2mp3/commit/33e8998bb85bbff19f1575559cb4752bc810bf04">Remove license file reference and add GitHub repository link to header</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]➜ <a href="https://github.com/Ex-iT/yt2mp3/commit/bf9e9e595406e4be18fa9ff5596d66c166e1643d">Removed wrong vercel badge</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]➜ <a href="https://github.com/Ex-iT/yt2mp3/commit/54a56edb5026aff5d7e0d5908d3b8e7c9a4d4db1">chore: update GitHub Actions versions and add nuxi prepare step to CI pipeline</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]➜ <a href="https://github.com/Ex-iT/yt2mp3/commit/e0e52174942e3aa948d4bf98aafe875a3cc4805e">chore: migrate from onlyBuiltDependencies to allowBuilds configuration in pnpm-workspace.yaml</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]➜ <a href="https://github.com/Ex-iT/yt2mp3/commit/3dbec2f59b9e2b42f9ae3cb3e663ca0fae35e97e">Update CI task</a>
-[+] [24-05-2026]-[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]➜ <a href="https://github.com/Ex-iT/yt2mp3/commit/e5ae5827004e26abd126a0ed151e6666312f5772">Added favicon etc.</a>
-[+] [16-05-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/fbfb20a63e02b802cfcbe6f2b119518dc17de8e2">Update trustPolicy from allow to no-downgrade in pnpm-workspace.yaml</a>
-[+] [16-05-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/44510f139bdba5e7f6664b415f6c3b264ebe7f69">Update dependencies, remove VueUse, and configure Nuxt icon bundling and UI experimental component detection</a>
-[+] [16-05-2026]-[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]➜ <a href="https://github.com/Ex-iT/P2K2/commit/c45dd1f79ee6af205aa152a3219582bc4be58673">Adjust CSS reference path and suppress unknown at-rule linting warnings</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>
+└ 8f03b00 → <a href="https://github.com/Ex-iT/Ex-iT/commit/8f03b00395d53df19c4fa5aa09b7b0e0dc0bafdf">refactor: update readme commit log format to include short SHA and multi-line layout</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>
+└ 90ddc86 → <a href="https://github.com/Ex-iT/Ex-iT/commit/90ddc8651b1e1a51c5bcdd1980fda43941c4ddae">chore: upgrade python_version to 3.12 in Pipfile</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>
+└ 1e4e784 → <a href="https://github.com/Ex-iT/Ex-iT/commit/1e4e7845c69041a0f12883035286652afaa3be89">feat: update requests, add commit message fetching via GitHub API, and configure workflow caching</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/ex-it.nl">ex-it.nl</a>
+└ 42f5f2e → <a href="https://github.com/Ex-iT/ex-it.nl/commit/42f5f2e40f0eb6b363edf6a431fa860368c12343">Update dependencies, upgrade node to v24/pnpm to v11, and add yt2mp3 project documentation</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>
+└ 33e8998 → <a href="https://github.com/Ex-iT/yt2mp3/commit/33e8998bb85bbff19f1575559cb4752bc810bf04">Remove license file reference and add GitHub repository link to header</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>
+└ bf9e9e5 → <a href="https://github.com/Ex-iT/yt2mp3/commit/bf9e9e595406e4be18fa9ff5596d66c166e1643d">Removed wrong vercel badge</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>
+└ 54a56ed → <a href="https://github.com/Ex-iT/yt2mp3/commit/54a56edb5026aff5d7e0d5908d3b8e7c9a4d4db1">chore: update GitHub Actions versions and add nuxi prepare step to CI pipeline</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>
+└ e0e5217 → <a href="https://github.com/Ex-iT/yt2mp3/commit/e0e52174942e3aa948d4bf98aafe875a3cc4805e">chore: migrate from onlyBuiltDependencies to allowBuilds configuration in pnpm-workspace.yaml</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>
+└ 3dbec2f → <a href="https://github.com/Ex-iT/yt2mp3/commit/3dbec2f59b9e2b42f9ae3cb3e663ca0fae35e97e">Update CI task</a>
+┌ 24-05-2026 ─ <a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>
+└ e5ae582 → <a href="https://github.com/Ex-iT/yt2mp3/commit/e5ae5827004e26abd126a0ed151e6666312f5772">Added favicon etc.</a>
+┌ 16-05-2026 ─ <a href="https://github.com/Ex-iT/P2K2">P2K2</a>
+└ fbfb20a → <a href="https://github.com/Ex-iT/P2K2/commit/fbfb20a63e02b802cfcbe6f2b119518dc17de8e2">Update trustPolicy from allow to no-downgrade in pnpm-workspace.yaml</a>
+┌ 16-05-2026 ─ <a href="https://github.com/Ex-iT/P2K2">P2K2</a>
+└ 44510f1 → <a href="https://github.com/Ex-iT/P2K2/commit/44510f139bdba5e7f6664b415f6c3b264ebe7f69">Update dependencies, remove VueUse, and configure Nuxt icon bundling and UI experimental component detection</a>
 </pre>
