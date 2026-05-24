@@ -71,8 +71,11 @@ def pushMessage(event):
     commit_url = f"""{main_url}/{repo_name}/commit/{head}"""
     commit_message = get_commit_message(repo_name, head)
 
+    if commit_message.startswith("Merge"):
+        return ""
+
     payload_text = f"""
-[+] {formatted_date} ▶ <a href="{repo_url}">{repo_label}</a>
+[+] {formatted_date} ▶ <a href="{repo_url}">[{repo_label}]</a>
   └─ <a href="{commit_url}">{commit_message}</a>"""
     return payload_text
 
@@ -88,7 +91,7 @@ if __name__ == "__main__":
 [-] No public recent activity"""
     else:
         for event in (event for event in json_data if event["type"] == "PushEvent"):
-            content += pushMessage(event)
+            content += pushMessage(event) or ""
 
     content += """
 </pre>"""
