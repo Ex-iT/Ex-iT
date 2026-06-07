@@ -33,6 +33,14 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+]─[05-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/31f534d3bf3cda725ade441a0e47566b8240ca7c">refactor: implement lazy-loaded movie details with SSR list caching and new API endpoint (#10)</a>
+[+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4da35d6d62d21c36ec6ebc6094de977ea1650dee">chore: upgrade github actions to v6 and node to version 22 in ci workflow</a>
+[+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a2fed03c84516a64caf281857607ddc79bb2b84d">chore: update CI branch triggers to dev and simplify workflow step names</a>
+[+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4ea5471a94db1fb101943721968c7278f6ff390f">chore: downgrade pnpm version, update workspace trust policy, and disable ESLint rule for workspace configuration</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
   └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/00c494afc4bcf5ce86b07bb363f7e1fbe531dbe7">refactor: remove arbitrary 3-URL limit for download source selection</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
@@ -47,12 +55,4 @@
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/5783a94fd619b62f8fc7b40631f513ad35de51cc">feat: integrate local top languages card generation into build workflow and update commit logic</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
   └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/a6ec48c4a49635f55e279b68bac5b9a4ed654c95">refactor: replace individual requests with a persistent session and add timeout handling</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/181e6724e6cc9d646889b172b84a3b1fc23bcc6c">refactor: remove pipenv from build workflow and update README link formatting</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/8f03b00395d53df19c4fa5aa09b7b0e0dc0bafdf">refactor: update readme commit log format to include short SHA and multi-line layout</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/90ddc8651b1e1a51c5bcdd1980fda43941c4ddae">chore: upgrade python_version to 3.12 in Pipfile</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/1e4e7845c69041a0f12883035286652afaa3be89">feat: update requests, add commit message fetching via GitHub API, and configure workflow caching</a>
 </pre>
