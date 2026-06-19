@@ -33,26 +33,24 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+]─[19-06-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
+ └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/59453a9f39b3dd767d5ad4685e9e26cad07e3d3b">Updated indetation for second commit line</a>
 [+]─[05-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/31f534d3bf3cda725ade441a0e47566b8240ca7c">refactor: implement lazy-loaded movie details with SSR list caching and new API endpoint (#10)</a>
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/31f534d3bf3cda725ade441a0e47566b8240ca7c">refactor: implement lazy-loaded movie details with SSR list caching and new API endpoint (#10)</a>
 [+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4da35d6d62d21c36ec6ebc6094de977ea1650dee">chore: upgrade github actions to v6 and node to version 22 in ci workflow</a>
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4da35d6d62d21c36ec6ebc6094de977ea1650dee">chore: upgrade github actions to v6 and node to version 22 in ci workflow</a>
 [+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a2fed03c84516a64caf281857607ddc79bb2b84d">chore: update CI branch triggers to dev and simplify workflow step names</a>
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a2fed03c84516a64caf281857607ddc79bb2b84d">chore: update CI branch triggers to dev and simplify workflow step names</a>
 [+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
-  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4ea5471a94db1fb101943721968c7278f6ff390f">chore: downgrade pnpm version, update workspace trust policy, and disable ESLint rule for workspace configuration</a>
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4ea5471a94db1fb101943721968c7278f6ff390f">chore: downgrade pnpm version, update workspace trust policy, and disable ESLint rule for workspace configuration</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/00c494afc4bcf5ce86b07bb363f7e1fbe531dbe7">refactor: remove arbitrary 3-URL limit for download source selection</a>
+ └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/00c494afc4bcf5ce86b07bb363f7e1fbe531dbe7">refactor: remove arbitrary 3-URL limit for download source selection</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/9972e09715e8bed0c2ec9f95aa9c1f863a3c69f6">perf: limit download attempts to top 3 URLs and reduce fetch timeout and retry count</a>
+ └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/9972e09715e8bed0c2ec9f95aa9c1f863a3c69f6">perf: limit download attempts to top 3 URLs and reduce fetch timeout and retry count</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/0bf0c964c8dbae608900c417725f512be3941467">feat: improve audio download reliability by implementing multi-source fallback and CDN URL iteration</a>
+ └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/0bf0c964c8dbae608900c417725f512be3941467">feat: improve audio download reliability by implementing multi-source fallback and CDN URL iteration</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
-  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/f3e2f068a014e23c12d72aeb891ad12e7b3b58da">refactor: enhance extraction with multi-client rotation and robust CDN download fallbacks using exponential backoff</a>
+ └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/f3e2f068a014e23c12d72aeb891ad12e7b3b58da">refactor: enhance extraction with multi-client rotation and robust CDN download fallbacks using exponential backoff</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/2dbb498780a48df5ed7778cd86111ee84ada8e26">chore: remove redundant Pipfile.lock file</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/5783a94fd619b62f8fc7b40631f513ad35de51cc">feat: integrate local top languages card generation into build workflow and update commit logic</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
-  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/a6ec48c4a49635f55e279b68bac5b9a4ed654c95">refactor: replace individual requests with a persistent session and add timeout handling</a>
+ └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/2dbb498780a48df5ed7778cd86111ee84ada8e26">chore: remove redundant Pipfile.lock file</a>
 </pre>
