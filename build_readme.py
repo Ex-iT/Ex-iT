@@ -77,7 +77,7 @@ def pushMessage(event):
 
     payload_text = f"""
 [+]─[{formatted_date}]▶[<a href="{repo_url}">{repo_label}</a>]
-  └─ <a href="{commit_url}">{commit_message}</a>"""
+ └─ <a href="{commit_url}">{commit_message}</a>"""
     return payload_text
 
 
