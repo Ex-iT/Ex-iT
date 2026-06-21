@@ -49,8 +49,4 @@
  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/9972e09715e8bed0c2ec9f95aa9c1f863a3c69f6">perf: limit download attempts to top 3 URLs and reduce fetch timeout and retry count</a>
 [+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
  └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/0bf0c964c8dbae608900c417725f512be3941467">feat: improve audio download reliability by implementing multi-source fallback and CDN URL iteration</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
- └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/f3e2f068a014e23c12d72aeb891ad12e7b3b58da">refactor: enhance extraction with multi-client rotation and robust CDN download fallbacks using exponential backoff</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
- └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/2dbb498780a48df5ed7778cd86111ee84ada8e26">chore: remove redundant Pipfile.lock file</a>
 </pre>
