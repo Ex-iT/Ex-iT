@@ -43,10 +43,4 @@
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a2fed03c84516a64caf281857607ddc79bb2b84d">chore: update CI branch triggers to dev and simplify workflow step names</a>
 [+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4ea5471a94db1fb101943721968c7278f6ff390f">chore: downgrade pnpm version, update workspace trust policy, and disable ESLint rule for workspace configuration</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
- └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/00c494afc4bcf5ce86b07bb363f7e1fbe531dbe7">refactor: remove arbitrary 3-URL limit for download source selection</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
- └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/9972e09715e8bed0c2ec9f95aa9c1f863a3c69f6">perf: limit download attempts to top 3 URLs and reduce fetch timeout and retry count</a>
-[+]─[24-05-2026]▶[<a href="https://github.com/Ex-iT/yt2mp3">yt2mp3</a>]
- └─ <a href="https://github.com/Ex-iT/yt2mp3/commit/0bf0c964c8dbae608900c417725f512be3941467">feat: improve audio download reliability by implementing multi-source fallback and CDN URL iteration</a>
 </pre>
