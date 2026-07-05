@@ -37,10 +37,4 @@
  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/59453a9f39b3dd767d5ad4685e9e26cad07e3d3b">Updated indetation for second commit line</a>
 [+]─[05-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/31f534d3bf3cda725ade441a0e47566b8240ca7c">refactor: implement lazy-loaded movie details with SSR list caching and new API endpoint (#10)</a>
-[+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4da35d6d62d21c36ec6ebc6094de977ea1650dee">chore: upgrade github actions to v6 and node to version 22 in ci workflow</a>
-[+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a2fed03c84516a64caf281857607ddc79bb2b84d">chore: update CI branch triggers to dev and simplify workflow step names</a>
-[+]─[02-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4ea5471a94db1fb101943721968c7278f6ff390f">chore: downgrade pnpm version, update workspace trust policy, and disable ESLint rule for workspace configuration</a>
 </pre>
