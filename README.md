@@ -35,6 +35,4 @@
 <pre>
 [+]─[19-06-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
  └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/59453a9f39b3dd767d5ad4685e9e26cad07e3d3b">Updated indetation for second commit line</a>
-[+]─[05-06-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/31f534d3bf3cda725ade441a0e47566b8240ca7c">refactor: implement lazy-loaded movie details with SSR list caching and new API endpoint (#10)</a>
 </pre>
