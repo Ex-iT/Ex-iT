@@ -33,6 +33,5 @@
 <h2>Recent activity</h2>
 
 <pre>
-[+]─[19-06-2026]▶[<a href="https://github.com/Ex-iT/Ex-iT">Ex-iT</a>]
- └─ <a href="https://github.com/Ex-iT/Ex-iT/commit/59453a9f39b3dd767d5ad4685e9e26cad07e3d3b">Updated indetation for second commit line</a>
+[-] No public recent activity
 </pre>
