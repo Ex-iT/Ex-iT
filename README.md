@@ -33,6 +33,20 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
+ └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/c30554773b8ec62bec9321f4f350c5c7f1feb428">Added sitemap.xml</a>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+ └─ <a href="https://github.com/Ex-iT/P2K2/commit/808e8b03bfa7e5c9d23f27adaf1e3e44f8747b26">Added standard pnpm install</a>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+ └─ <a href="https://github.com/Ex-iT/P2K2/commit/9eb3d433964f6b626c697b88b3f5e6956af26baf">Fixed pnpm mismatch</a>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+ └─ <a href="https://github.com/Ex-iT/P2K2/commit/ceab87208edf26803d625c1650c6efa2295c0945">Updated TailwindCSS</a>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
+ └─ <a href="https://github.com/Ex-iT/P2K2/commit/8b34f5a117c1c6187f28d636bb7f16afbea0651b">Updated to be compatible with Node v24</a>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+ └─ <a href="https://github.com/Ex-iT/CDR-Player/commit/94b70b8b135550cbf540d92242d9385eca538cdf">Updated AGENTS.md</a>
+[+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
+ └─ <a href="https://github.com/Ex-iT/CDR-Player/commit/fd4d3ef8aa9a27b29ca4c300bae01b5cf3fd8a5a">Fixed config mismatch</a>
 [+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
  └─ <a href="https://github.com/Ex-iT/CDR-Player/commit/c4dbf1617be4a723e0050c5fec202ec85300ff8c">Fixed imports and timer duplication logic</a>
 [+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
@@ -49,18 +63,4 @@
  └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/579c56914f26da22b7dc72ba55f335b375783163">Handle Vercel first request static assets</a>
 [+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
  └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/0ed128d3e4497635b5e06d7fcc4994049ddf0b87">Fixed conflicting static route</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/3c34b4ee01223233d96c291fa6cad668adee6414">Fixed Vercels assets-output path</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/738a6da256359a8ba6012134f59e099c063091f1">Fix webassets-cache and static paths</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/165dcd8a21df4dc916190bae2941048bf7faa06d">Fixed writable folder for assets on Vercel</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/103338883e5bed2ff7e14f2571cd95d81b31f6fb">Add .python-version for Python 3.14</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/87b8d5c7d05a5fd13bb8c35db560225e47acbd6d">Fixed issue with pip lock file</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/2d11c0817e0d05417a0456ff139794564fd6044a">Fix Vercel build: move buildCommand into Python builder config</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/31a8e5cfc4bab6fc085befea40bcff3ac7de76de">Removed project links in menu and refactored core code + Vercel warmup</a>
 </pre>
