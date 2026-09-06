@@ -33,6 +33,16 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/15abe13c7653de199e72950a9bc04d4f42e1dd5d">Fix hydration, improve error handling and consolidate caching</a>
+[+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/56857dda1ea6d90381b765ed9efe126f1ea63d9f">Update theme_color in manifest to avoid white top bar when using PWA</a>
+[+]─[06-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/879c6019b56cdcbdc9f2c565c759149550952063">Fixed lint issue in README.md</a>
+[+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/adaadbd2387d1ff797ecbb24b61a48f9d6a04605">Added RSS feed</a>
+[+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/c6bd42d988653fb9f7408070b3c717f9c640944d">Fixed memory leak, optimized caching and updated API error handling</a>
 [+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
  └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/c30554773b8ec62bec9321f4f350c5c7f1feb428">Added sitemap.xml</a>
 [+]─[17-08-2026]▶[<a href="https://github.com/Ex-iT/P2K2">P2K2</a>]
@@ -53,14 +63,4 @@
  └─ <a href="https://github.com/Ex-iT/CDR-Player/commit/0fd48071af7befdca54154816462eca7ae309c36">Fixed time of the day discrepancy</a>
 [+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/CDR-Player">CDR-Player</a>]
  └─ <a href="https://github.com/Ex-iT/CDR-Player/commit/724062cd4fca4988c428e371d945a9f20171dad2">Fixed code review findings</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/f97afb7e81ade1cc9c880428225ae4935b8e3a20">Added RSS feed</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/d6a3c668d2f73991035151eb374b5366099b058f">Updated docs</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/70078f97043b67828f94875bbca3b77550f7f687">Reverted to flask_minify</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/579c56914f26da22b7dc72ba55f335b375783163">Handle Vercel first request static assets</a>
-[+]─[16-08-2026]▶[<a href="https://github.com/Ex-iT/ishetaldonderdag">ishetaldonderdag</a>]
- └─ <a href="https://github.com/Ex-iT/ishetaldonderdag/commit/0ed128d3e4497635b5e06d7fcc4994049ddf0b87">Fixed conflicting static route</a>
 </pre>
