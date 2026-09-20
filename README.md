@@ -34,6 +34,8 @@
 
 <pre>
 [+]─[11-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/5a6735277bafb7fb762a97adbb8077c4c3b8db27">fix: use white glow shadow on desktop modal for contrast</a>
+[+]─[11-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/4525169e808c06dadcc66a9100a74bb39eaa7384">style: replace pulse animation with sweep, slow to 2.5s</a>
 [+]─[11-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/098ae4516df34a9b1bb61a2d12ba977f489cf080">fix: improve dialog CSS and add fade-out transition</a>
@@ -61,6 +63,4 @@
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/15abe13c7653de199e72950a9bc04d4f42e1dd5d">Fix hydration, improve error handling and consolidate caching</a>
 [+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/56857dda1ea6d90381b765ed9efe126f1ea63d9f">Update theme_color in manifest to avoid white top bar when using PWA</a>
-[+]─[06-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/879c6019b56cdcbdc9f2c565c759149550952063">Fixed lint issue in README.md</a>
 </pre>
