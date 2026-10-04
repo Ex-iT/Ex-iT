@@ -33,6 +33,10 @@
 <h2>Recent activity</h2>
 
 <pre>
+[+]─[29-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/5181ef541eb73b2194b1ed067e617607b90382bc">docs: update AGENTS.md for date, modal past state and design tokens</a>
+[+]─[29-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
+ └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/eab86d32b5f3ed4328b969b6cbc8921ccc78e98d">refactor: replace deep_link payload field with getProgrammeUrl util</a>
 [+]─[11-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/5a6735277bafb7fb762a97adbb8077c4c3b8db27">fix: use white glow shadow on desktop modal for contrast</a>
 [+]─[11-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
@@ -59,8 +63,4 @@
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/af8a10c6c185fa7ef74ee372c3288ee116ea8353">Use memory-only cache in dev to avoid stale data</a>
 [+]─[07-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a849c8c41e5a50fa82c70a5ec96b32f83904c5ec">Reduce cache durations to prevent stale programme data</a>
-[+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/15abe13c7653de199e72950a9bc04d4f42e1dd5d">Fix hydration, improve error handling and consolidate caching</a>
-[+]─[05-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/56857dda1ea6d90381b765ed9efe126f1ea63d9f">Update theme_color in manifest to avoid white top bar when using PWA</a>
 </pre>
