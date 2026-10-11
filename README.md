@@ -49,18 +49,4 @@
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/8c0e4a921465ffae783a484b05ff15319e858f2a">feat: add movie detail modal with deep links, use <dialog> element</a>
 [+]─[11-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
  └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/3a265339c34b890c8ca241c45d92ece3d9c297a8">Increase detail cache from 30 min to 24 hr</a>
-[+]─[08-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/45f4ff45630cd8169c969d467a137f7ff08a7ff9">Fix hydration mismatch in Sharer by deferring canShare to onMounted</a>
-[+]─[08-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/844edb4d29ee08cbed7392814c9e07632320c265">Override Vercel Permissions-Policy header to remove attribution-reporting</a>
-[+]─[08-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/dff07097c06637118caf9a6834f3a17fdbb72233">Update AGENTS.md and README.md to reflect current state</a>
-[+]─[08-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/2c96f16b1007f1f9026830b033527a78f870e305">Prevent Vercel edge caching and fix hydration mismatch</a>
-[+]─[06-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/83771164b9ee42fe7cb6d25701aa1d4ccf6cfba0">Fixed stale passed state and minor clean up</a>
-[+]─[07-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/af8a10c6c185fa7ef74ee372c3288ee116ea8353">Use memory-only cache in dev to avoid stale data</a>
-[+]─[07-09-2026]▶[<a href="https://github.com/Ex-iT/movie-feed-nuxt">movie-feed-nuxt</a>]
- └─ <a href="https://github.com/Ex-iT/movie-feed-nuxt/commit/a849c8c41e5a50fa82c70a5ec96b32f83904c5ec">Reduce cache durations to prevent stale programme data</a>
 </pre>
